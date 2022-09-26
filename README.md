@@ -15,11 +15,11 @@
 
 ## Topics
 
-- [Algorithms](./contents/algorithms/)
-- [Data Structures](./contents/data-structures/)
-- [Mathematics](./contents/mathematics/)
+- [Algorithms](./contents/algorithms/home.md)
+- [Data Structures](./contents/data-structures/home.md)
+- [Mathematics](./contents/mathematics/home.md)
 - [freeCodeCamp](./contents/freeCodeCamp/home.md)
-- [Hackerrank](./contents/hackerrank/)
+- [Hackerrank](./contents/hackerrank/home.md)
 
 ## Info
 
