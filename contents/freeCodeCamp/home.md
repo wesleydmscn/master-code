@@ -1,8 +1,8 @@
 [<p align="right">< Back</p>](../../README.md)
 
-<h1>freeCodeCamp</h1>
+<h2>freeCodeCamp</h2>
 
-## <p align="center">Problems</p>
+<h3 align="center">Problems</h3>
 
 <div align="center">
 
@@ -13,9 +13,9 @@
 
 </div>
 
-## <p align="center">Tips</p>
+<h3 align="center">Tips</h3>
 
-<p>This section contains coding challenges that test your knowledge of algorithms, data structures, and math. My tip is: Start with the "Easy" level, if you find it too easy, go to "Medium" and so on, good code!</p>
+<p align="center">This section contains coding challenges that test your knowledge of algorithms, data structures, and math.<br> My tip is: Start with the "Easy" level, if you find it too easy, go to "Medium" and so on, good code!</p>
 
 #
 
