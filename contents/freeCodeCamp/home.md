@@ -15,7 +15,13 @@
 
 <h3 align="center">Tips</h3>
 
-<p align="center">This section contains coding challenges that test your knowledge of algorithms, data structures, and math.<br> My tip is: Start with the "Easy" level, if you find it too easy, go to "Medium" and so on, good code!</p>
+<p align="center">My tip is: Start with the "Easy" level, if you find it too easy, go to "Medium" and so on, good code!<br>This section contains coding challenges that test your knowledge of:</p>
+
+<div align="center">
+
+  <code> Algorithms | Data structures | Math</code>
+
+</div>
 
 #
 

@@ -1,3 +1,22 @@
 [<p align="right">< Back</p>](../../README.md)
 
-<h1 align="center">Mathematics</h1>
+<h2>Mathematics</h2>
+
+<h3 align="center">Problems</h3>
+
+<div align="center">
+
+| Easy 	| Medium 	| Hard 	|
+|:---:	|:---:	|:---:	|
+| ...	| ... 	| ... 	|
+| ... 	| ... 	| ... 	|
+
+</div>
+
+<h3 align="center">Tips</h3>
+
+<p align="center">This section contains random coding challenges that test your knowledge of <code>Math</code>.<br> My tip is: Start with the "Easy" level, if you find it too easy, go to "Medium" and so on, good code!</p>
+
+#
+
+<p align="center">Give the repository one 🌟!<p>
