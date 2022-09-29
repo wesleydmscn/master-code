@@ -42,7 +42,7 @@
 ```
 <p>Notes</p>
 
-- The "problem.md" files bring the information about the problem with a broader view, in this file you will not see solutions.
+- The "problem.md" files bring the information about the problem with a broader view, in this file you will not see solutions explained, only links to them in different programming languages.
 - The "solution.js" files don't have to be just javascript, you can send a #pr with a solution in another programming language.
 
 ## Contribution
