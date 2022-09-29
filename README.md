@@ -1,6 +1,4 @@
-<p align="center"><img width="400" src=".github/project-logo.png"></p>
-
-#
+<h2 align="center"><img width="400" src=".github/project-logo.png"></h2>
 
 ### <p align="center">Coding problems to practice problem solving skill.</p>
 
