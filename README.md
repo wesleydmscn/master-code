@@ -13,7 +13,7 @@
 
 ## Topics
 
-- [Algorithms](./contents/algorithms/home.md)
+- [Algorithms *](./contents/algorithms/home.md)
 - [Data Structures](./contents/data-structures/home.md)
 - [Mathematics](./contents/mathematics/home.md)
 - [freeCodeCamp *](./contents/freeCodeCamp/home.md)
