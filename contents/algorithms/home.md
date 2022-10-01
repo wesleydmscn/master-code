@@ -8,8 +8,8 @@
 
 | Easy 	| Medium 	| Hard 	|
 |:---:	|:---:	|:---:	|
-| [A Very Big Sum](./a-very-big-sum/problem.md)	| ... 	| ... 	|
-| ... 	| ... 	| ... 	|
+| [Times Character Occurs String](./times-character-occurs-string/problem.md)	| ... 	| ... 	|
+| [A Very Big Sum](./a-very-big-sum/problem.md) 	| ... 	| ... 	|
 
 </div>
 
