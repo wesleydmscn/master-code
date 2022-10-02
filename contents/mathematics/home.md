@@ -8,7 +8,7 @@
 
 | Easy 	| Medium 	| Hard 	|
 |:---:	|:---:	|:---:	|
-| ...	| ... 	| ... 	|
+| [Multiples of 3 of 5](./multiples-of-3-or-5/problem.md)	| ... 	| ... 	|
 | ... 	| ... 	| ... 	|
 
 </div>
