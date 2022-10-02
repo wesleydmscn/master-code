@@ -8,8 +8,8 @@
 
 | Easy 	| Medium 	| Hard 	|
 |:---:	|:---:	|:---:	|
-| [Find the symmetric difference](./find-the-symmetric-difference/problem.md) 	| (prime-k) factorial 	| Diophantine Reciprocals II 	|
-| Implement Binary Search 	| ... 	| ... 	|
+| [Palindrome Checker](./palindrome-checker/problem.md)	| [Find the symmetric difference](./find-the-symmetric-difference/problem.md)	| Diophantine Reciprocals II 	|
+| ... 	| ... 	| ... 	|
 
 </div>
 
