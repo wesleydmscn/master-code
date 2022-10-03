@@ -20,9 +20,9 @@
 
 ```js
   evenFibonacciNumbers(200) // 4.53973694165308e+41
-  evenFibonacciNumbers(200) // 1.6130531424904572e+31
-  evenFibonacciNumbers(200) // 573136135649642940000
-  evenFibonacciNumbers(200) // 6293134512
+  evenFibonacciNumbers(150) // 1.6130531424904572e+31
+  evenFibonacciNumbers(100) // 573136135649642940000
+  evenFibonacciNumbers(50) // 6293134512
 ```
 
 <h3 align="center">Solution files</h3>
