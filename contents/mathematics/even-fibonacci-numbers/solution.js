@@ -1,30 +1,23 @@
-function fibonacciSequence(maxTermsValue) {
-  const sequence = [0, 1];
+function evenFibonacci(maxValue) {
+  const sequence = [];
 
-  for (let i = 0; sequence.length < maxTermsValue; i++) {
-    const nextFibonacciNumber = (sequence[i + 1]) + (sequence[i]);
-    sequence.push(nextFibonacciNumber);
+  for (let x = 0; x < maxValue; x++) {
+    if (sequence.length < 2) sequence.push(x);
+    else sequence.push(sequence[x - 1] + sequence[x - 2]);
   }
 
-  return sequence;
-}
+  const filtredNumbers = sequence.filter(number => number <= maxValue);
+  const evenValues = filtredNumbers.filter(eachNumber => eachNumber % 2 === 0);
+  const sumEvenValues = evenValues.reduce((previous, next) => previous + next);
 
-function evenFibonacciNumbers(sequence) {
-  const evenValues = sequence.filter(eachNumber => eachNumber % 2 === 0);
-  const sumOfEvenValues = evenValues.reduce((number, nextNumber) => number + nextNumber);
-
-  return {
-    "Sequence normal": sequence,
-    "Even values": evenValues,
-    "Sum of even values": sumOfEvenValues,
-  };
+  return sumEvenValues;
 }
 
 const test_cases = {
-  "case 1": evenFibonacciNumbers(fibonacciSequence(200))["Sum of even values"],
-  "case 2": evenFibonacciNumbers(fibonacciSequence(150))["Sum of even values"],
-  "case 3": evenFibonacciNumbers(fibonacciSequence(100))["Sum of even values"],
-  "case 4": evenFibonacciNumbers(fibonacciSequence(50))["Sum of even values"],
+  "case 1": evenFibonacci(40),
+  "case 2": evenFibonacci(30),
+  "case 3": evenFibonacci(20),
+  "case 4": evenFibonacci(10),
 }
 
 console.log(test_cases);

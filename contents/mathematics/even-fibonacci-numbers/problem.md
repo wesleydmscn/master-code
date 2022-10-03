@@ -19,10 +19,10 @@
 <p>Your code should pass all the test cases below:</p>
 
 ```js
-  evenFibonacciNumbers(200) // 4.53973694165308e+41
-  evenFibonacciNumbers(150) // 1.6130531424904572e+31
-  evenFibonacciNumbers(100) // 573136135649642940000
-  evenFibonacciNumbers(50) // 6293134512
+  evenFibonacci(40) // 44
+  evenFibonacci(30) // 10
+  evenFibonacci(20) // 10
+  evenFibonacci(10) // 10
 ```
 
 <h3 align="center">Solution files</h3>
