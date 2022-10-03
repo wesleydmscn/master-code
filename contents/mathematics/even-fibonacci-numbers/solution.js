@@ -24,7 +24,7 @@ const test_cases = {
   "case 1": evenFibonacciNumbers(fibonacciSequence(200))["Sum of even values"],
   "case 2": evenFibonacciNumbers(fibonacciSequence(150))["Sum of even values"],
   "case 3": evenFibonacciNumbers(fibonacciSequence(100))["Sum of even values"],
-  "case 4": evenFibonacciNumbers(fibonacciSequence(50))["Sequence normal"],
+  "case 4": evenFibonacciNumbers(fibonacciSequence(50))["Sum of even values"],
 }
 
 console.log(test_cases);
