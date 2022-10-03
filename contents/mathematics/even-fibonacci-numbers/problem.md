@@ -23,7 +23,6 @@
   evenFibonacciNumbers(200) // 1.6130531424904572e+31
   evenFibonacciNumbers(200) // 573136135649642940000
   evenFibonacciNumbers(200) // 6293134512
-  
 ```
 
 <h3 align="center">Solution files</h3>
