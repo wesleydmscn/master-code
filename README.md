@@ -5,18 +5,18 @@
 <div align="center">
     <p>
 	    <a name="stars"><img src="https://img.shields.io/github/stars/wesleydamasceno/coding-problems?style=for-the-badge"></a>
+      <a name="Forks"><img src="https://img.shields.io/github/forks/wesleydamasceno/coding-problems?style=for-the-badge"></a>
 	    <a name="contributions"><img src="https://img.shields.io/github/contributors/wesleydamasceno/coding-problems?logoColor=green&style=for-the-badge"></a>
-	    <a name="madeWith"><img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge"></a>
 	    <a name="license"><img src="https://img.shields.io/github/license/wesleydamasceno/coding-problems?style=for-the-badge"></a>
     </p>
 </div>
 
 ## Topics
 
-- [Algorithms *](./contents/algorithms/home.md)
+- [Algorithms](./contents/algorithms/home.md)
 - [Data Structures](./contents/data-structures/home.md)
-- [Mathematics *](./contents/mathematics/home.md)
-- [freeCodeCamp *](./contents/freeCodeCamp/home.md)
+- [Mathematics](./contents/mathematics/home.md)
+- [freeCodeCamp](./contents/freeCodeCamp/home.md)
 - [Hackerrank](./contents/hackerrank/home.md)
 
 ## Info
@@ -25,16 +25,17 @@
 
 ```js
 
-  Structure = {
-    the_topic: [
+  Contents = {
+    topic_name: [
       "home.md",
       problem_folder [
         "problem.md",
         "solution.js"
       ],
       other_problem_folder [
-        "...",
-        "..."
+        "problem.md",
+        "solution.js",
+        "solution.cpp"
       ],
     ]
   }
