@@ -8,7 +8,7 @@
 
 | Easy 	| Medium 	| Hard 	|
 |:---:	|:---:	|:---:	|
-| ...	| ... 	| ... 	|
+| [The sum of a Range](./the-sum-of-a-range/problem.md)	| ... 	| ... 	|
 | ... 	| ... 	| ... 	|
 
 </div>
