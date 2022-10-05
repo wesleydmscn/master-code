@@ -14,10 +14,10 @@
 
 <div align="center">
 
-| [Algorithms](./contents/algorithms/home.md) | [Data Structures](./contents/data-structures/home.md)	| [Mathematics](./contents/mathematics/home.md) | [Regex](#) |
+| [Algorithms](./contents/algorithms/home.md) | [Data Structures](./contents/data-structures/home.md)	| [Mathematics](./contents/mathematics/home.md) | Regex |
 | :---:| :---: | :---:	| :---: |
-| **[Computer Science](#)**	| **[Functional Programming](#)**	| **[Competitive Programming](#)** 	| **[Coding Interview](#)** |
-| **[Frontend Challenges](#)** 	| **[Backend Challenges](#)** 	| **[freeCodeCamp](./contents/freeCodeCamp/home.md)**	| **[Hackerrank](./contents/hackerrank/home.md)** |
+| **Computer Science**	| **Functional Programming**	| **Competitive Programming** 	| **Coding Interview** |
+| **Frontend Challenges** 	| **Backend Challenges** 	| **[freeCodeCamp](./contents/freeCodeCamp/home.md)**	| **[Hackerrank](./contents/hackerrank/home.md)** |
 
 </div>
 
