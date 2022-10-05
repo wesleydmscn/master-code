@@ -1,4 +1,6 @@
-[<p align="right">< Back</p>](../home.md)
+<p align="right">
+  <a href="../home.md">< Back</a>
+</p>
 
 <h2>The sum of a Range</h2>
 

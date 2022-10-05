@@ -1,4 +1,6 @@
-[<p align="right">< Back</p>](../home.md)
+<p align="right">
+  <a href="../home.md">< Back</a>
+</p>
 
 <h2>Multiples of 3 or 5</h2>
 

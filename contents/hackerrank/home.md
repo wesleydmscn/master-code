@@ -1,4 +1,6 @@
-[<p align="right">< Back</p>](../../README.md)
+<p align="right">
+  <a href="../../README.md">< Back</a>
+</p>
 
 <h2>Hackerrank</h2>
 

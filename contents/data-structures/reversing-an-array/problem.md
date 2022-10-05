@@ -1,4 +1,6 @@
-[<p align="right">< Back</p>](../home.md)
+<p align="right">
+  <a href="../home.md">< Back</a>
+</p>
 
 <h2>Reversing an Array</h2>
 

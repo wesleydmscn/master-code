@@ -1,4 +1,6 @@
-[<p align="right">< Back</p>](../home.md)
+<p align="right">
+  <a href="../home.md">< Back</a>
+</p>
 
 <h2>A Very Big Sum</h2>
 
