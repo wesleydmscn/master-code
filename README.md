@@ -14,15 +14,35 @@
 
 <div align="center">
 
-| [Algorithms](./contents/algorithms/home.md) | [Data Structures](./contents/data-structures/home.md)	| [Mathematics](./contents/mathematics/home.md) | Regex |
-| :---:| :---: | :---:	| :---: |
-| **Computer Science**	| **Functional Programming**	| **Competitive Programming** 	| **Coding Interview** |
-| **Frontend Challenges** 	| **Backend Challenges** 	| **[freeCodeCamp](./contents/freeCodeCamp/home.md)**	| **[Hackerrank](./contents/hackerrank/home.md)** |
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="./contents/algorithms/home.md">Algorithms</a></td>
+      <td align="center"><a href="./contents/data-structures/home.md">Data Structures</a></td>
+      <td align="center"><a href="./contents/mathematics/home.md">Mathematics</a></td>
+      <td align="center">Regex</td>
+    </tr>
+    <tr>
+      <td align="center">Computer Science</td>
+      <td align="center">Functional Programming</td>
+      <td align="center">Competitive Programming</td>
+      <td align="center">Coding Interview</td>
+    </tr>
+    <tr>
+      <td align="center">Frontend Challenges</td>
+      <td align="center">Backend Challenges</td>
+      <td align="center"><a href="./contents/freeCodeCamp/home.md">freeCodeCamp</a></td>
+      <td align="center"><a href="./contents/hackerrank/home.md">Hackerrank</a></td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
 ## Info
+
 <p>Project focused on helping developers and enthusiasts like me to practice their logic and problem solving skills. In this repository you should find various problems related to algorithms, data structure, mathematics, computer science problems, regex and many others.</p>
+
 <p>The problems follow this folder and file structure:</p>
 
 ```js
