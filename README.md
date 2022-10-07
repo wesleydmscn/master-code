@@ -20,7 +20,7 @@
       <td align="center"><a href="./contents/algorithms/home.md">Algorithms</a></td>
       <td align="center"><a href="./contents/data-structures/home.md">Data Structures</a></td>
       <td align="center"><a href="./contents/mathematics/home.md">Mathematics</a></td>
-      <td align="center">Regex</td>
+      <td align="center"><a href="./contents/regex/home.md">Regex</a></td>
     </tr>
     <tr>
       <td align="center">Computer Science</td>
