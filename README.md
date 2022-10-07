@@ -32,7 +32,7 @@
       <td align="center">Frontend Challenges</td>
       <td align="center">Backend Challenges</td>
       <td align="center"><a href="./contents/freeCodeCamp/home.md">freeCodeCamp</a></td>
-      <td align="center"><a href="./contents/hackerrank/home.md">Hackerrank</a></td>
+      <td align="center"><a href="./contents/rosetta-code/home.md">Rosetta Code</a></td>
     </tr>
   </tbody>
 </table>
