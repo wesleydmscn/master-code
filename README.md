@@ -45,24 +45,10 @@
 
 <p>The problems follow this folder and file structure:</p>
 
-```js
+<p align="center">
+  <img width="900" src="./.github/structure_diagram.png">
+</p>
 
-  Contents = {
-    topic_name: [
-      "home.md",
-      problem_folder [
-        "problem.md",
-        "solution.js"
-      ],
-      other_problem_folder [
-        "problem.md",
-        "solution.js",
-        "solution.cpp"
-      ],
-    ]
-  }
-
-```
 <p>Notes</p>
 
 - The "problem.md" files bring the information about the problem with a broader view, in this file you will not see solutions explained, only links to them in different programming languages.
