@@ -29,9 +29,9 @@
       <td align="center">Coding Interview</td>
     </tr>
     <tr>
-      <td align="center">Frontend Challenges</td>
-      <td align="center">Backend Challenges</td>
-      <td align="center"><a href="./contents/freeCodeCamp/home.md">freeCodeCamp</a></td>
+      <td align="center">Frontend</td>
+      <td align="center">Backend</td>
+      <td align="center"><a href="./contents/debugging/home.md">Debugging</a></td>
       <td align="center"><a href="./contents/rosetta-code/home.md">Rosetta Code</a></td>
     </tr>
   </tbody>
