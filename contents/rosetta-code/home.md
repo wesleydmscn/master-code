@@ -10,7 +10,7 @@
 
 | Easy 	| Medium 	| Hard 	|
 |:---:	|:---:	|:---:	|
-| ...	| ... 	| ... 	|
+| [FizzBuzz](./fizzbuzz/problem.md)	| ... 	| ... 	|
 | ... 	| ... 	| ... 	|
 
 </div>
