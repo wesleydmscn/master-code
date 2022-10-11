@@ -11,7 +11,7 @@
 | Easy 	| Medium 	| Hard 	|
 |:---:	|:---:	|:---:	|
 | [FizzBuzz](./fizzbuzz/problem.md)	| ... 	| ... 	|
-| ... 	| ... 	| ... 	|
+| [Fibonacci Sequence](./fibonacci-sequence/problem.md) 	| ... 	| ... 	|
 
 </div>
 
