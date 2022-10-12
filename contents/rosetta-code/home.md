@@ -12,6 +12,8 @@
 |:---:	|:---:	|:---:	|
 | [FizzBuzz](./fizzbuzz/problem.md)	| ... 	| ... 	|
 | [Fibonacci Sequence](./fibonacci-sequence/problem.md) 	| ... 	| ... 	|
+| [Sum of Squares](./sum-of-squares/problem.md) 	| ... 	| ... 	|
+| [Symmetric Difference (Two Sets)](./symmetric-difference-two-sets/problem.md) 	| ... 	| ... 	|
 
 </div>
 
