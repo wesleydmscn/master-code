@@ -29,8 +29,8 @@
       <td align="center">Coding Interview</td>
     </tr>
     <tr>
-      <td align="center">Frontend</td>
-      <td align="center">Backend</td>
+      <td align="center"><a href="./contents/frontend/home.md">Frontend</a></td>
+      <td align="center"><a href="./contents/backend/home.md">Backend</a></td>
       <td align="center"><a href="./contents/debugging/home.md">Debugging</a></td>
       <td align="center"><a href="./contents/rosetta-code/home.md">Rosetta Code</a></td>
     </tr>
