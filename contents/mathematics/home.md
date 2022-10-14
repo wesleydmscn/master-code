@@ -11,8 +11,8 @@
 | Easy 	| Medium 	| Hard 	|
 |:---:	|:---:	|:---:	|
 | [Multiples of 3 of 5](./multiples-of-3-or-5/problem.md)	| [Even Fibonacci Numbers](./even-fibonacci-numbers/problem.md) 	| ... 	|
-| [Factorialize a Number](./factorialize-a-number/problem.md) 	| [Find the symmetric Difference](./find-the-symmetric-difference/problem.md) 	| ... 	|
-| [Prime Number Finder (JS)](./prime-number-finder/problem.md) 	| ... 	|
+| [Factorialize a Number](./factorialize-a-number/problem.md) 	| [Find the symmetric Difference](./find-the-symmetric-difference/problem.md) 	| ...	|
+| [Prime Number Finder (JS)](./prime-number-finder/problem.md) 	| [Triangular Number Sequence](./triangular-number-sequence/problem.md) 	|
 | [Area of a Triangle](./area-of-a-triangle/problem.md) | ... | ... |
 
 </div>
