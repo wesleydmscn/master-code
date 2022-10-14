@@ -8,3 +8,5 @@ const test_cases = {
   "case 3": triArea(10, 10),
   "case 4": triArea(12, 11),
 }
+
+console.log(test_cases);
