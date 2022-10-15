@@ -1,10 +1,10 @@
 function triangle(n) {
-	let count = 1;
-	
-	for (let i = 2; i <= n; i++) {
-		count = count + i;
-	}
-	
+  let count = 1;
+  
+  for (let i = 2; i <= n; i++) {
+    count = count + i;
+  }
+    
   return count;
 }
 
