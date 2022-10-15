@@ -12,6 +12,8 @@
 |:---:	|:---:	|:---:	|
 | [The sum of a Range](./the-sum-of-a-range/problem.md)	| ... 	| ... 	|
 | [Reversing an array (JS)](./reversing-an-array/problem.md) 	| ... 	| ... 	|
+| ... | ... | ... |
+| ... | ... | ... |
 
 </div>
 
