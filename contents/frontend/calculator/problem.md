@@ -12,7 +12,7 @@ The styling is up to you so use your imagination and get creative! You might als
 
 <h3 align="center">Problem</h3>
 
-<p align="center">Create a basic calculator that does simple operations.</p>
+<p>Create a basic calculator that does simple operations.</p>
 
 <h3 align="center">Solutions in Codepen</h3>
 
