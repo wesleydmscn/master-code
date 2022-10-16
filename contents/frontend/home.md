@@ -10,7 +10,7 @@
 
 | Easy 	| Medium 	| Hard 	|
 |:---:	|:---:	|:---:	|
-| [Calculator](./calculator/problem.md)	| ... 	| ... 	|
+| [Calculator](./calculator/problem.md)	| [Markdown Previewer](./markdown-previewer/problem.md) 	| ... 	|
 | ... 	| ... 	| ... 	|
 | ... 	| ... 	| ... 	|
 | ... 	| ... 	| ... 	|
