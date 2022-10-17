@@ -8,7 +8,6 @@
 	    <a name="stars"><img src="https://img.shields.io/github/stars/wesleydamasceno/coding-problems?style=for-the-badge"></a>
 	    <a name="languages"><img src="https://img.shields.io/github/languages/count/wesleydamasceno/coding-problems?style=for-the-badge"></a>
 	    <a name="contributions"><img src="https://img.shields.io/github/contributors/wesleydamasceno/coding-problems?logoColor=green&style=for-the-badge"></a>
-	    <a name="last commit"><img src="https://img.shields.io/github/last-commit/wesleydamasceno/coding-problems?style=for-the-badge"></a>
 	    <a name="license"><img src="https://img.shields.io/github/license/wesleydamasceno/coding-problems?style=for-the-badge"></a>
     </p>
 </div>
