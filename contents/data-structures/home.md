@@ -11,7 +11,7 @@
 | Easy 	| Medium 	| Hard 	|
 |:---:	|:---:	|:---:	|
 | [The sum of a Range](./the-sum-of-a-range/problem.md)	| [A list (JS)](./a-list/problem.md) 	| ... 	|
-| [Reversing an array (JS)](./reversing-an-array/problem.md) 	| ... 	| ... 	|
+| [Reversing an array (JS)](./reversing-an-array/problem.md) 	| [Deep Comparison (JS)](./deep-comparison/problem.md) 	| ... 	|
 | ... | ... | ... |
 | ... | ... | ... |
 
