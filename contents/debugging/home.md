@@ -11,7 +11,7 @@
 | Easy 	| Medium 	| Hard 	|
 |:---:	|:---:	|:---:	|
 | [Array plus Array](./array-plus-array/problem.md)	| ...	| ... |
-| ...	| ...	| ...	|
+| [Capitalization and Mutability](./capitalization-and-mutability/problem.md)	| ...	| ...	|
 | ... | ... | ... |
 | ... | ... | ... |
 
