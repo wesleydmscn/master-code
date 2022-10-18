@@ -10,7 +10,7 @@
 
 | Easy 	| Medium 	| Hard 	|
 |:---:	|:---:	|:---:	|
-| ...	| ...	| ... |
+| [Array plus Array](./array-plus-array/problem.md)	| ...	| ... |
 | ...	| ...	| ...	|
 | ... | ... | ... |
 | ... | ... | ... |
