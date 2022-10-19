@@ -12,7 +12,7 @@
 |:---:	|:---:	|:---:	|
 | [Array plus Array](./array-plus-array/problem.md)	| ...	| ... |
 | [Capitalization and Mutability](./capitalization-and-mutability/problem.md)	| ...	| ...	|
-| ... | ... | ... |
+| [Get Planet Name By ID](./get-planet-name-by-id/problem.md) | ... | ... |
 | ... | ... | ... |
 
 </div>
