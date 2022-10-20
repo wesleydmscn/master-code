@@ -2,7 +2,7 @@
   <a href="../home.md">< Back</a>
 </p>
 
-<h2>Get Planet Name By ID</h2>
+<h2>Debug Sum of Digits of a Number</h2>
 
 <h3 align="center">Problem</h3>
 
