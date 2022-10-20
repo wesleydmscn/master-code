@@ -6,7 +6,7 @@
 
 <h3 align="center">Problem</h3>
 
-<p>Debug   function getSumOfDigits that takes positive integer to calculate sum of it's digits. Assume that argument is an integer.</p>
+<p>Debug function <code>getSumOfDigits</code> that takes positive integer to calculate sum of it's digits. Assume that argument is an integer.</p>
 
 <p>Exemple:</p>
 
