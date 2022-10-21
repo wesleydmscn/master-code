@@ -10,7 +10,7 @@
 
 | Easy 	| Medium 	| Hard 	|
 |:---:	|:---:	|:---:	|
-| [Matching Specific String](./matching-specific-string/problem.md)	| ... | ... |
+| [Matching Specific String](./matching-specific-string/problem.md)	| [IP Validation](./ip-validation/problem.md) | ... |
 | ... | ... | ... |
 | ... | ... | ... |
 | ... | ... | ... |
