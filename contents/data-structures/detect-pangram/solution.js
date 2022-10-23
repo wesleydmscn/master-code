@@ -1,17 +1,9 @@
 function isPangram(phrase) {
-  const alphabet = [
-    "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N",
-    "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z",
-  ];
+  const alphabet = "abcdefghijklmnopqrstuvwxyz";
 
-  const phraseSplitted = phrase.toUpperCase().split("");
-  const result = [];
-
-  phraseSplitted.map(letter => {
-    if (alphabet.includes(letter)) result.push(letter);
-  })
-
-  return result.filter((prev, pos) => result.indexOf(prev) === pos).sort().length === 26;
+  return alphabet
+            .split("")
+            .every(letter => phrase.toLowerCase().includes(letter));
 }
 
 const test_cases = {
