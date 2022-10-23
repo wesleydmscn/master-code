@@ -17,8 +17,8 @@
 ```js
 isPangram("The quick brown fox jumps over the lazy dog.") // true
 isPangram("This is not a pangram.") // false
-isPangram("Cross valley and plain to steal coins from Saudi mint.") // true
-isPangram("Carved symbols in a mountain hollow on") // true
+isPangram("Crazy Frederick bought many very exquisite opal jewels.") // true
+isPangram("A quivering Texas zombie fought republic linked jewelry.") // true
 ```
 
 <h3 align="center">Solution files</h3>
