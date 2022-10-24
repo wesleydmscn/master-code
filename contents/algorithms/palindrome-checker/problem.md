@@ -19,10 +19,10 @@
 <p>Your code should pass all the test cases below:</p>
 
 ```js
-  palindrome("eye"), // true
-  palindrome("A man, a plan, a canal. Panama"), // true
-  palindrome("1 eye for of 1 eye."), // false
-  palindrome("0_0 (: /-\ :) 0-0") // true
+palindrome("eye"), // true
+palindrome("A man, a plan, a canal. Panama"), // true
+palindrome("1 eye for of 1 eye."), // false
+palindrome("0_0 (: /-\ :) 0-0") // true
 ```
 
 <h3 align="center">Solution files</h3>

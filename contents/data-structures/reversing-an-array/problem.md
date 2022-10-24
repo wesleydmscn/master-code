@@ -13,12 +13,12 @@
 <p>Your code should pass all the test cases below:</p>
 
 ```js
-  reverseArray(["A", "B", "C"]) // ["C", "B", "A"]
+reverseArray(["A", "B", "C"]) // ["C", "B", "A"]
 
-  let arrayValue = [1, 2, 3, 4, 5];
-  reverseArrayInPlace(arrayValue);
+let arrayValue = [1, 2, 3, 4, 5];
+reverseArrayInPlace(arrayValue);
 
-  console.log(arrayValue); // [5, 4, 3, 2, 1]
+console.log(arrayValue); // [5, 4, 3, 2, 1]
 ```
 
 <h3 align="center">Solution files</h3>

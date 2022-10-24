@@ -19,10 +19,10 @@
 <p>Your code should pass all the test cases below:</p>
 
 ```js
-  factorialize(5) // 120
-  factorialize(10) // 3628800
-  factorialize(20) // 2432902008176640000
-  factorialize(0) // 1
+factorialize(5) // 120
+factorialize(10) // 3628800
+factorialize(20) // 2432902008176640000
+factorialize(0) // 1
 ```
 
 <h3 align="center">Solution files</h3>

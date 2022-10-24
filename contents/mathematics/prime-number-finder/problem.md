@@ -13,10 +13,10 @@
 <p>Your code should pass all the test cases below:</p>
 
 ```js
-  primeFinder(11) // [2, 3, 5, 7, 11]
-  primeFinder(16) // [2, 3, 5, 7, 11, 13]
-  primeFinder(20) // [2, 3, 5, 7, 11, 13, 17, 19]
-  primeFinder(24) // [2, 3, 5, 7, 11, 13, 17, 19, 23]
+primeFinder(11) // [2, 3, 5, 7, 11]
+primeFinder(16) // [2, 3, 5, 7, 11, 13]
+primeFinder(20) // [2, 3, 5, 7, 11, 13, 17, 19]
+primeFinder(24) // [2, 3, 5, 7, 11, 13, 17, 19, 23]
 ```
 
 <h3 align="center">Solution files</h3>

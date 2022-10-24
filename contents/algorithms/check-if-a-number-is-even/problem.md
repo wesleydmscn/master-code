@@ -13,10 +13,10 @@
 <p>Your code should pass all the test cases below:</p>
 
 ```js
-  isEven(2) // true
-  isEven(5) // false
-  isEven(-8) // true
-  isEven(-15) // false
+isEven(2) // true
+isEven(5) // false
+isEven(-8) // true
+isEven(-15) // false
 ```
 
 <h3 align="center">Solution files</h3>

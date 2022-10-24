@@ -21,10 +21,10 @@
 <p>Your code should pass all the test cases below:</p>
 
 ```js
-  multiplesOfThreeOrFive(1000) // 233168
-  multiplesOfThreeOrFive(500) // 57918
-  multiplesOfThreeOrFive(100) // 2318
-  multiplesOfThreeOrFive(10) // 23
+multiplesOfThreeOrFive(1000) // 233168
+multiplesOfThreeOrFive(500) // 57918
+multiplesOfThreeOrFive(100) // 2318
+multiplesOfThreeOrFive(10) // 23
 ```
 
 <h3 align="center">Solution files</h3>

@@ -13,10 +13,10 @@
 <p>Your code should pass all the test cases below:</p>
 
 ```js
-  timesCharOccursString("Nemesis", "s"), // 2
-  timesCharOccursString("Zero Kamikaze Squirrel", "k"), // 2
-  timesCharOccursString("The Legend of Zelda", "l"), // 2
-  timesCharOccursString("Super Metroid", "e") // 2
+timesCharOccursString("Nemesis", "s"), // 2
+timesCharOccursString("Zero Kamikaze Squirrel", "k"), // 2
+timesCharOccursString("The Legend of Zelda", "l"), // 2
+timesCharOccursString("Super Metroid", "e") // 2
 ```
 
 <h3 align="center">Solution files</h3>

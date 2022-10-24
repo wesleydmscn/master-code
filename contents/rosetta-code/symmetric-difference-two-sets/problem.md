@@ -13,10 +13,10 @@
 <p>Your code should pass all the test cases below:</p>
 
 ```js
-  symmetricDifference([1, 2, 3], [3, 4]) // [1, 2, 4]
-  symmetricDifference([1, 2, 3, 4, 5], [3, 4, 8, 7]) // [1, 2, 5, 7, 8]
-  symmetricDifference([1, 2, 3, 4, 5, 6, 7, 8], [1, 3, 5, 6, 7, 8, 9]) // [2, 4, 9]
-  symmetricDifference([1, 2, 4, 7, 9], [2, 3, 7, 8, 9]) // [1, 3, 4, 8]
+symmetricDifference([1, 2, 3], [3, 4]) // [1, 2, 4]
+symmetricDifference([1, 2, 3, 4, 5], [3, 4, 8, 7]) // [1, 2, 5, 7, 8]
+symmetricDifference([1, 2, 3, 4, 5, 6, 7, 8], [1, 3, 5, 6, 7, 8, 9]) // [2, 4, 9]
+symmetricDifference([1, 2, 4, 7, 9], [2, 3, 7, 8, 9]) // [1, 3, 4, 8]
 ```
 
 <h3 align="center">Solution files</h3>

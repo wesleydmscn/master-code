@@ -13,10 +13,10 @@
 <p>Your code should pass all the test cases below:</p>
 
 ```js
-  sumsq([1, 2, 3, 4, 5]) // 55
-  sumsq([25, 32, 12, 7, 20]) // 2242
-  sumsq([38, 45, 35, 8, 13]) // 4927
-  sumsq([43, 36, 20, 34, 24]) // 5277
+sumsq([1, 2, 3, 4, 5]) // 55
+sumsq([25, 32, 12, 7, 20]) // 2242
+sumsq([38, 45, 35, 8, 13]) // 4927
+sumsq([43, 36, 20, 34, 24]) // 5277
 ```
 
 <h3 align="center">Solution files</h3>

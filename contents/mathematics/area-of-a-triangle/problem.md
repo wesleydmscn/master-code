@@ -19,10 +19,10 @@
 <p>Your code should pass all the test cases below:</p>
 
 ```js
-  triArea(3, 2) // 3
-  triArea(5, 4) // 10
-  triArea(10, 10) // 50
-  triArea(12, 11) // 66
+triArea(3, 2) // 3
+triArea(5, 4) // 10
+triArea(10, 10) // 50
+triArea(12, 11) // 66
 ```
 
 <h3 align="center">Solution files</h3>

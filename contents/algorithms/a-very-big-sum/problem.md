@@ -13,10 +13,10 @@
 <p>Your code should pass all the test cases below:</p>
 
 ```js
-  aVeryBigSum([2, 3, 5]) // 10
-  aVeryBigSum([200, 160, 140, 70]) // 570
-  aVeryBigSum([314560239, 3314560239, 5314560239]) // 8943680717
-  aVeryBigSum([]) // 0
+aVeryBigSum([2, 3, 5]) // 10
+aVeryBigSum([200, 160, 140, 70]) // 570
+aVeryBigSum([314560239, 3314560239, 5314560239]) // 8943680717
+aVeryBigSum([]) // 0
 ```
 
 <h3 align="center">Solution files</h3>

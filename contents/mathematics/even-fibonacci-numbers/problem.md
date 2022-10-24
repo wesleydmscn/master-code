@@ -21,10 +21,10 @@
 <p>Your code should pass all the test cases below:</p>
 
 ```js
-  evenFibonacci(40) // 44
-  evenFibonacci(30) // 10
-  evenFibonacci(20) // 10
-  evenFibonacci(10) // 10
+evenFibonacci(40) // 44
+evenFibonacci(30) // 10
+evenFibonacci(20) // 10
+evenFibonacci(10) // 10
 ```
 
 <h3 align="center">Solution files</h3>

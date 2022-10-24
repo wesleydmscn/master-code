@@ -13,10 +13,10 @@
 <p>Your code should pass all the test cases below:</p>
 
 ```js
-  checkAllArrayElementsEqual([true, true, true, true]) // true
-  checkAllArrayElementsEqual(['test', 'test', 'test']) // true
-  checkAllArrayElementsEqual([1,1,1,2]) // false
-  checkAllArrayElementsEqual(['10',10,10,10]) // false
+checkAllArrayElementsEqual([true, true, true, true]) // true
+checkAllArrayElementsEqual(['test', 'test', 'test']) // true
+checkAllArrayElementsEqual([1,1,1,2]) // false
+checkAllArrayElementsEqual(['10',10,10,10]) // false
 ```
 
 <h3 align="center">Solution files</h3>

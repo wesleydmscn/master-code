@@ -17,10 +17,10 @@
 <p>Your code should pass all the test cases below:</p>
 
 ```js
-  fibonacci(2) // 1
-  fibonacci(3) // 2
-  fibonacci(5) // 5
-  fibonacci(10) // 55
+fibonacci(2) // 1
+fibonacci(3) // 2
+fibonacci(5) // 5
+fibonacci(10) // 55
 ```
 
 <h3 align="center">Solution files</h3>

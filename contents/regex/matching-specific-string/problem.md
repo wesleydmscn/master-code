@@ -19,7 +19,7 @@
 <p>Your code should return a total of matches:</p>
 
 ```js
-  "Number of matches" : 2
+"Number of matches" : 2
 ```
 
 <h3 align="center">Solution files</h3>

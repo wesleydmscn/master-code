@@ -13,10 +13,10 @@
 <p>Your code should pass all the test cases below:</p>
 
 ```js
-  range(1, 4) // [1, 2, 3, 4]
-  sum(range(1, 4)) // 10
-  range() // []
-  sum(range()) // 0
+range(1, 4) // [1, 2, 3, 4]
+sum(range(1, 4)) // 10
+range() // []
+sum(range()) // 0
 ```
 
 <h3 align="center">Solution files</h3>

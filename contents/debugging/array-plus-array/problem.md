@@ -23,10 +23,10 @@ function arrayPlusArray(arr1, arr2) {
 <p>Your code should pass all the test cases below:</p>
 
 ```js
-  arrayPlusArray([1, 2, 3], [4, 5, 6]) // 21
-  arrayPlusArray([-1, -2, -3], [-4, -5, -6]) // -21 
-  arrayPlusArray([0, 0, 0], [4, 5, 6]) // 15
-  arrayPlusArray([100, 200, 300], [400, 500, 600]) // 2100 
+arrayPlusArray([1, 2, 3], [4, 5, 6]) // 21
+arrayPlusArray([-1, -2, -3], [-4, -5, -6]) // -21 
+arrayPlusArray([0, 0, 0], [4, 5, 6]) // 15
+arrayPlusArray([100, 200, 300], [400, 500, 600]) // 2100 
 ```
 
 <h3 align="center">Solution files</h3>

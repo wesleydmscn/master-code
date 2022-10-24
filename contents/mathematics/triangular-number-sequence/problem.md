@@ -33,10 +33,10 @@
 <p>Your code should pass all the test cases below:</p>
 
 ```js
-  triangle(1) // 1
-  triangle(2) // 3
-  triangle(3) // 6
-  triangle(8) // 36
+triangle(1) // 1
+triangle(2) // 3
+triangle(3) // 6
+triangle(8) // 36
 ```
 
 <h3 align="center">Solution files</h3>
