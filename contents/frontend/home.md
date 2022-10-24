@@ -11,7 +11,7 @@
 | Easy 	| Medium 	| Hard 	|
 |:---:	|:---:	|:---:	|
 | [Calculator](./calculator/problem.md)	| [Markdown Previewer](./markdown-previewer/problem.md) 	| ... 	|
-| [Drum Machine](./drum-machine/problem.md) 	| ... 	| ... 	|
+| [Drum Machine](./drum-machine/problem.md) 	| [To-do List](./todo-list/problem.md) 	| ... 	|
 | ... 	| ... 	| ... 	|
 | ... 	| ... 	| ... 	|
 
