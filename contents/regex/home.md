@@ -11,7 +11,7 @@
 | Easy 	| Medium 	| Hard 	|
 |:---:	|:---:	|:---:	|
 | [Matching Specific String](./matching-specific-string/problem.md)	| [IP Validation](./ip-validation/problem.md) | ... |
-| ... | ... | ... |
+| [Simple validation of a username](./simple-validation-of-a-username/problem.md) | ... | ... |
 | ... | ... | ... |
 | ... | ... | ... |
 
