@@ -15,6 +15,7 @@
 | [Get Planet Name By ID](./get-planet-name-by-id/problem.md) | ... | ... |
 | [Is this my tail?](./is-this-my-tail/problem.md) | ... | ... |
 | [Debug Sum of Digits of a Number](./debug-sum-of-digits-of-a-number/problem.md) | ... | ... |
+| [Grasshopper - Debug](./grasshopper-debug/problem.md) | ... | ... |
 
 </div>
 
