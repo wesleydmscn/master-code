@@ -12,7 +12,7 @@
 |:---:	|:---:	|:---:	|
 | [Calculator](./calculator/problem.md)	| [Markdown Previewer](./markdown-previewer/problem.md) 	| ... 	|
 | [Drum Machine](./drum-machine/problem.md) 	| [To-do List](./todo-list/problem.md) 	| ... 	|
-| ... 	| ... 	| ... 	|
+| ... 	| [Random Quote Machine](./random-quote-machine/problem.md) 	| ... 	|
 | ... 	| ... 	| ... 	|
 
 </div>
