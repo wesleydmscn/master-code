@@ -40,7 +40,7 @@
       <td align="center">Competitive Programming</td>
       <td align="center">Computer Networks</td>
       <td align="center"><a href="./contents/rosetta-code/home.md">Rosetta Code</a></td>
-      <td align="center">Puzzles</td>
+      <td align="center"><a href="./contents/puzzles/home.md">Puzzles</a></td>
     </tr>
   </tbody>
 </table>
