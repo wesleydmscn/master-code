@@ -25,16 +25,22 @@
       <td align="center"><a href="./contents/regex/home.md">Regex</a></td>
     </tr>
     <tr>
-      <td align="center">Computer Science</td>
-      <td align="center">Functional Programming</td>
-      <td align="center">Competitive Programming</td>
-      <td align="center">Coding Interview</td>
-    </tr>
-    <tr>
       <td align="center"><a href="./contents/frontend/home.md">Frontend</a></td>
       <td align="center"><a href="./contents/backend/home.md">Backend</a></td>
       <td align="center"><a href="./contents/debugging/home.md">Debugging</a></td>
+      <td align="center">Refactoring</td>
+    </tr>
+    <tr>
+      <td align="center">Functional Programming</td>
+      <td align="center">Dynamic Programming</td>
+      <td align="center">Computer Science</td>
+      <td align="center">Coding Interview</td>
+    </tr>
+    <tr>
+      <td align="center">Competitive Programming</td>
+      <td align="center">Computer Networks</td>
       <td align="center"><a href="./contents/rosetta-code/home.md">Rosetta Code</a></td>
+      <td align="center">Puzzles</td>
     </tr>
   </tbody>
 </table>
