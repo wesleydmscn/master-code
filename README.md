@@ -28,7 +28,7 @@
       <td align="center"><a href="./contents/frontend/home.md">Frontend</a></td>
       <td align="center"><a href="./contents/backend/home.md">Backend</a></td>
       <td align="center"><a href="./contents/debugging/home.md">Debugging</a></td>
-      <td align="center">Refactoring</td>
+      <td align="center"><a href="./contents/refactoring/home.md">Refactoring</a></td>
     </tr>
     <tr>
       <td align="center">Functional Programming</td>
