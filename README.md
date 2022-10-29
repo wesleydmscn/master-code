@@ -89,4 +89,4 @@ Feel free to contribute to this repo by raising the pull request.
 
 ## :memo: License
 
-This project is under the MIT license.
+This project is under the [MIT](./LICENSE) license.
