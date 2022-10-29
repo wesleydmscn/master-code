@@ -12,7 +12,7 @@
     </p>
 </div>
 
-## Topics
+## Fundamentals 🎓
 
 <div align="center">
 
@@ -47,7 +47,30 @@
 
 </div>
 
-## Info
+## Niches 📚
+
+<div align="center">
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center">JavaScript</td>
+      <td align="center">TypeScript</td>
+      <td align="center">APIs</td>
+      <td align="center">Databases</td>
+    </tr>
+    <tr>
+      <td align="center">Responsive Design</td>
+      <td align="center">CSS</td>
+      <td align="center">Accessibility</td>
+      <td align="center">Figma</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+## Info 📌
 
 <p>Project focused on helping developers and enthusiasts like me to practice their logic and problem solving skills. In this repository you should find various problems related to algorithms, data structure, mathematics, computer science problems, regex and many others.</p>
 
@@ -62,14 +85,14 @@
   <img width="900" src="./.github/structure_diagram.png">
 </p>
 
-<h2>Contribution</h2>
+## Contribution 🤯
 
 <p>Feel free to contribute to this repo by raising the pull request.</p>
 
-<h2>License</h2>
+## License 🔖
 
 <p>Licensed under the <a href="./LICENSE">MIT</a> license.</p>
 
 <h2></h2>
 
-<p align="center">Give the repository one 🌟!</p>
+<p align="center">Give the repository 🌟</p>
