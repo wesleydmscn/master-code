@@ -1,22 +1,30 @@
-<h1 align="center">
-  <img align="center" width="50" src=".github/logo-icon.jpg">
-  <span style="margin-left: 1rem">Coding Problems</span>
-</h1>
+<h1 align="center"> Master Code <img align="center" src="./.github/cat.svg"/></h1>
 
-<div align="center">
-    <p>
-	    <a name="stars"><img src="https://img.shields.io/github/stars/wesleydamasceno/coding-problems?style=for-the-badge"></a>
-	    <a name="languages"><img src="https://img.shields.io/github/languages/count/wesleydamasceno/coding-problems?style=for-the-badge"></a>
-	    <a name="contributions"><img src="https://img.shields.io/github/contributors/wesleydamasceno/coding-problems?logoColor=green&style=for-the-badge"></a>
-	    <a name="license"><img src="https://img.shields.io/github/license/wesleydamasceno/coding-problems?style=for-the-badge"></a>
-    </p>
-</div>
+<p align="center">
+Project focused on helping developers and enthusiasts practice their logic and problem solving skills.
+</p>
 
-## Fundamentals 🎓
+<p align="center">
+  <a href="#-Fundamentals">Fundamentals</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Niches">Niches</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Contribution">Contribution</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
 
-<div align="center">
+<p align="center">
+  <a name="stars"><img src="https://img.shields.io/github/stars/wesleydamasceno/coding-problems?style=for-the-badge"></a>
+	<a name="languages"><img src="https://img.shields.io/github/languages/count/wesleydamasceno/coding-problems?style=for-the-badge"></a>
+	<a name="contributions"><img src="https://img.shields.io/github/contributors/wesleydamasceno/coding-problems?logoColor=green&style=for-the-badge"></a>
+	<a name="license"><img src="https://img.shields.io/github/license/wesleydamasceno/coding-problems?style=for-the-badge"></a>
+</p>
 
-<table>
+<br>
+
+## 🎓 Fundamentals
+
+In this section you will find problems with fundamental computing topics:
+
+<table align="center">
   <tbody>
     <tr>
       <td align="center"><a href="./contents/algorithms/home.md">Algorithms</a></td>
@@ -45,13 +53,11 @@
   </tbody>
 </table>
 
-</div>
+## 📚 Niches
 
-## Niches 📚
+In this section, you will find issues with niche topics:
 
-<div align="center">
-
-<table>
+<table align="center">
   <tbody>
     <tr>
       <td align="center">JavaScript</td>
@@ -68,31 +74,19 @@
   </tbody>
 </table>
 
-</div>
+## 🤯 Contribution
 
-## Info 📌
+<p>
+This project is focused on helping developers and enthusiasts like me practice their logic and problem solving skills. In this repository you should find various problems related to algorithms, data structure, mathematics, computer science problems, regex and many others.
+</p>
 
-<p>Project focused on helping developers and enthusiasts like me to practice their logic and problem solving skills. In this repository you should find various problems related to algorithms, data structure, mathematics, computer science problems, regex and many others.</p>
-
-<p>Notes:</p>
+### Notes:
 
 - The "problem.md" files bring the information about the problem with a broader view, in this file you will not see solutions explained, only links to them in different programming languages.
 - The "solution.js" files don't have to be just javascript, you can send a #pr with a solution in another programming language.
 
-<p>The problems follow this folder and file structure:</p>
+Feel free to contribute to this repo by raising the pull request.
 
-<p align="center">
-  <img width="900" src="./.github/structure_diagram.png">
-</p>
+## :memo: License
 
-## Contribution 🤯
-
-<p>Feel free to contribute to this repo by raising the pull request.</p>
-
-## License 🔖
-
-<p>Licensed under the <a href="./LICENSE">MIT</a> license.</p>
-
-<h2></h2>
-
-<p align="center">Give the repository 🌟</p>
+This project is under the MIT license.
