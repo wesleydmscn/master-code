@@ -31,14 +31,14 @@
       <td align="center"><a href="./contents/refactoring/home.md">Refactoring</a></td>
     </tr>
     <tr>
-      <td align="center">Functional Programming</td>
-      <td align="center">Dynamic Programming</td>
-      <td align="center">Computer Science</td>
-      <td align="center">Coding Interview</td>
+      <td align="center"><a href="./contents/functional-programming/home.md">Functional Programming</a></td>
+      <td align="center"><a href="./contents/dynamic-programming/home.md">Dynamic Programming</a></td>
+      <td align="center"><a href="./contents/computer-science/home.md">Computer Science</a></td>
+      <td align="center"><a href="./contents/coding-interview/home.md">Coding Interview</a></td>
     </tr>
     <tr>
-      <td align="center">Competitive Programming</td>
-      <td align="center">Computer Networks</td>
+      <td align="center"><a href="./contents/competitive-programming/home.md">Competitive Programming</a></td>
+      <td align="center"><a href="./contents/computer-networks/home.md">Computer Networks</a></td>
       <td align="center"><a href="./contents/rosetta-code/home.md">Rosetta Code</a></td>
       <td align="center"><a href="./contents/puzzles/home.md">Puzzles</a></td>
     </tr>
