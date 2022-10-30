@@ -19,10 +19,8 @@
 
 <h3 align="center">Tips</h3>
 
-<p align="center">Level up your creative problem-solving skills with these free JavaScript-DOM tasks.
-<br>
-My tip is: start with the "Easy" level, if you find it too easy, go to "Medium" and so on, good code!</p>
+<p align="center">Start with the "Easy" level, if you find it too easy, go to "Medium" and so on, good code!</p>
 
 #
 
-<p align="center">Give the repository one 🌟!<p>
+<p align="center">Give the repository 🌟<p>
