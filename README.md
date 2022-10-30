@@ -60,7 +60,7 @@ In this section, you will find issues with niche topics:
 <table align="center">
   <tbody>
     <tr>
-      <td align="center">JavaScript</td>
+      <td align="center"><a href="./contents/niches/javascript/home.md">JavaScript</a></td>
       <td align="center">TypeScript</td>
       <td align="center">APIs</td>
       <td align="center">Databases</td>
