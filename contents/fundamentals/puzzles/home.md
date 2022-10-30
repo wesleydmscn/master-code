@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="../../README.md">< Back</a>
+  <a href="../../../README.md">< Back</a>
 </p>
 
 <h2>Puzzles</h2>
