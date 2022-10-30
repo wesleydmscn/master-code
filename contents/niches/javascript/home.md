@@ -17,12 +17,10 @@
 
 </div>
 
-<h3 align="center">Tips</h3>
+<h3 align="center">Note:</h3>
 
-<p align="center">Level up your creative problem-solving skills with these free JavaScript tasks.
-<br>
-My tip is: start with the "Easy" level, if you find it too easy, go to "Medium" and so on, good code!</p>
+<p align="center">Level up your creative problem-solving skills with these free JavaScript tasks.</p>
 
 #
 
-<p align="center">Give the repository one 🌟!<p>
+<p align="center">Give the repository 🌟<p>
