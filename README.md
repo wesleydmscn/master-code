@@ -67,7 +67,7 @@ In this section, you will find issues with niche topics:
     </tr>
     <tr>
       <td align="center">Responsive Design</td>
-      <td align="center">CSS</td>
+      <td align="center"><a href="./contents/niches/css/home.md">CSS</a></td>
       <td align="center">Accessibility</td>
       <td align="center">Figma</td>
     </tr>
