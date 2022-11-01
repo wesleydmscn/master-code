@@ -28,3 +28,4 @@ triArea(12, 11) // 66
 <h3 align="center">Solution files</h3>
 
 - [Solution (JavaScript)](./solution.js)
+- [Solution (Python)](./solution.py)
