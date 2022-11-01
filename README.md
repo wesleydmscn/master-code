@@ -61,14 +61,14 @@ In this section, you will find issues with niche topics:
   <tbody>
     <tr>
       <td align="center"><a href="./contents/niches/javascript/home.md">JavaScript</a></td>
-      <td align="center">TypeScript</td>
-      <td align="center">APIs</td>
-      <td align="center">Databases</td>
+      <td align="center"><a href="./contents/niches/typescript/home.md">TypeScript</a></td>
+      <td align="center"><a href="./contents/niches/api/home.md">APIs</a></td>
+      <td align="center"><a href="./contents/niches/databases/home.md">Databases</a></td>
     </tr>
     <tr>
-      <td align="center">Responsive Design</td>
+      <td align="center"><a href="./contents/niches/responsive-design/home.md">Responsive Design</a></td>
       <td align="center"><a href="./contents/niches/css/home.md">CSS</a></td>
-      <td align="center">Accessibility</td>
+      <td align="center"><a href="./contents/niches/accessibility/home.md">Accessibility</a></td>
       <td align="center"><a href="./contents/niches/figma/home.md">Figma</a></td>
     </tr>
   </tbody>
