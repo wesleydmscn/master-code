@@ -8,12 +8,12 @@
 
 <div align="center">
 
-| Easy 	| Medium 	| Hard 	|
-|:---:	|:---:	|:---:	|
-| [Multiples of 3 of 5](./multiples-of-3-or-5/problem.md)	| [Even Fibonacci Numbers](./even-fibonacci-numbers/problem.md) 	| ... 	|
-| [Factorialize a Number](./factorialize-a-number/problem.md) 	| [Find the symmetric Difference](./find-the-symmetric-difference/problem.md) 	| ...	|
-| [Prime Number Finder (JS)](./prime-number-finder/problem.md) 	| [Triangular Number Sequence](./triangular-number-sequence/problem.md) 	|
-| [Area of a Triangle](./area-of-a-triangle/problem.md) | ... | ... |
+| N° | Easy 	| Medium 	| Hard 	|
+|:---: |:---:	|:---:	|:---:	|
+| 1 | [Multiples of 3 of 5](./multiples-of-3-or-5/problem.md)	| [Even Fibonacci Numbers](./even-fibonacci-numbers/problem.md) 	| ... 	|
+| 2 | [Factorialize a Number](./factorialize-a-number/problem.md) 	| [Find the symmetric Difference](./find-the-symmetric-difference/problem.md) 	| ...	|
+| 3 | [Prime Number Finder (JS)](./prime-number-finder/problem.md) 	| [Triangular Number Sequence](./triangular-number-sequence/problem.md) 	|
+| 4 | [Area of a Triangle](./area-of-a-triangle/problem.md) | ... | ... |
 
 </div>
 

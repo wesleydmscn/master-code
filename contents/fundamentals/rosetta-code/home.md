@@ -8,12 +8,12 @@
 
 <div align="center">
 
-| Easy 	| Medium 	| Hard 	|
-|:---:	|:---:	|:---:	|
-| [FizzBuzz](./fizzbuzz/problem.md)	| ... 	| ... 	|
-| [Fibonacci Sequence](./fibonacci-sequence/problem.md) 	| ... 	| ... 	|
-| [Sum of Squares](./sum-of-squares/problem.md) 	| ... 	| ... 	|
-| [Symmetric Difference (Two Sets)](./symmetric-difference-two-sets/problem.md) 	| ... 	| ... 	|
+| N° | Easy 	| Medium 	| Hard 	|
+|:---: |:---:	|:---:	|:---:	|
+| 1 | [FizzBuzz](./fizzbuzz/problem.md)	| ... 	| ... 	|
+| 2 | [Fibonacci Sequence](./fibonacci-sequence/problem.md) 	| ... 	| ... 	|
+| 3 | [Sum of Squares](./sum-of-squares/problem.md) 	| ... 	| ... 	|
+| 4 | [Symmetric Difference (Two Sets)](./symmetric-difference-two-sets/problem.md) 	| ... 	| ... 	|
 
 </div>
 

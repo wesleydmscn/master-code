@@ -8,12 +8,12 @@
 
 <div align="center">
 
-| Easy 	| Medium 	| Hard 	|
-|:---:	|:---:	|:---:	|
-| [The sum of a Range](./the-sum-of-a-range/problem.md)	| [A list (JS)](./a-list/problem.md) 	| ... 	|
-| [Reversing an array (JS)](./reversing-an-array/problem.md) 	| [Deep Comparison (JS)](./deep-comparison/problem.md) 	| ... 	|
-| ... | [Detect Pangram](./detect-pangram/problem.md) | ... |
-| ... | ... | ... |
+| N° | Easy 	| Medium 	| Hard 	|
+|:---: |:---:	|:---:	|:---:	|
+| 1 | [The sum of a Range](./the-sum-of-a-range/problem.md)	| [A list (JS)](./a-list/problem.md) 	| ... 	|
+| 2 | [Reversing an array (JS)](./reversing-an-array/problem.md) 	| [Deep Comparison (JS)](./deep-comparison/problem.md) 	| ... 	|
+| 3 | ... | [Detect Pangram](./detect-pangram/problem.md) | ... |
+| 4 | ... | ... | ... |
 
 </div>
 
@@ -23,4 +23,4 @@
 
 #
 
-<p align="center">Give the repository one 🌟!<p>
+<p align="center">Give the repository 🌟<p>

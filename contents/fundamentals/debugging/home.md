@@ -8,14 +8,14 @@
 
 <div align="center">
 
-| Easy 	| Medium 	| Hard 	|
-|:---:	|:---:	|:---:	|
-| [Array plus Array](./array-plus-array/problem.md)	| ...	| ... |
-| [Capitalization and Mutability](./capitalization-and-mutability/problem.md)	| ...	| ...	|
-| [Get Planet Name By ID](./get-planet-name-by-id/problem.md) | ... | ... |
-| [Is this my tail?](./is-this-my-tail/problem.md) | ... | ... |
-| [Debug Sum of Digits of a Number](./debug-sum-of-digits-of-a-number/problem.md) | ... | ... |
-| [Grasshopper - Debug](./grasshopper-debug/problem.md) | ... | ... |
+| N° | Easy 	| Medium 	| Hard 	|
+|:---: |:---:	|:---:	|:---:	|
+| 1 | [Array plus Array](./array-plus-array/problem.md)	| ...	| ... |
+| 2 | [Capitalization and Mutability](./capitalization-and-mutability/problem.md)	| ...	| ...	|
+| 3 | [Get Planet Name By ID](./get-planet-name-by-id/problem.md) | ... | ... |
+| 4 | [Is this my tail?](./is-this-my-tail/problem.md) | ... | ... |
+| 5 | [Debug Sum of Digits of a Number](./debug-sum-of-digits-of-a-number/problem.md) | ... | ... |
+| 6 | [Grasshopper - Debug](./grasshopper-debug/problem.md) | ... | ... |
 
 </div>
 

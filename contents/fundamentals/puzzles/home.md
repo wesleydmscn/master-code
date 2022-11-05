@@ -8,14 +8,14 @@
 
 <div align="center">
 
-| Easy 	| Medium 	| Hard 	|
-|:---:	|:---:	|:---:	|
-| [5 without numbers !!](./five-without-numbers/problem.md)	| ...	| ... |
-| ...	| ...	| ...	|
-| ... | ... | ... |
-| ... | ... | ... |
-| ... | ... | ... |
-| ... | ... | ... |
+| N° | Easy 	| Medium 	| Hard 	|
+|:---: |:---:	|:---:	|:---:	|
+| 1 | [5 without numbers !!](./five-without-numbers/problem.md)	| ...	| ... |
+| 2 | ...	| ...	| ...	|
+| 3 | ... | ... | ... |
+| 4 | ... | ... | ... |
+| 5 | ... | ... | ... |
+| 6 | ... | ... | ... |
 
 </div>
 

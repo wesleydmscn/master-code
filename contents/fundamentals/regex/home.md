@@ -8,12 +8,12 @@
 
 <div align="center">
 
-| Easy 	| Medium 	| Hard 	|
-|:---:	|:---:	|:---:	|
-| [Matching Specific String](./matching-specific-string/problem.md)	| [IP Validation](./ip-validation/problem.md) | ... |
-| [Simple validation of a username](./simple-validation-of-a-username/problem.md) | ... | ... |
-| [Fix my phone Numbers](./fix-my-phone-numbers/problem.md) | ... | ... |
-| ... | ... | ... |
+| N° | Easy 	| Medium 	| Hard 	|
+|:---: |:---:	|:---:	|:---:	|
+| 1 | [Matching Specific String](./matching-specific-string/problem.md)	| [IP Validation](./ip-validation/problem.md) | ... |
+| 2 | [Simple validation of a username](./simple-validation-of-a-username/problem.md) | ... | ... |
+| 3 | [Fix my phone Numbers](./fix-my-phone-numbers/problem.md) | ... | ... |
+| 4 | ... | ... | ... |
 
 </div>
 

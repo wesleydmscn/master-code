@@ -8,12 +8,12 @@
 
 <div align="center">
 
-| Easy 	| Medium 	| Hard 	|
-|:---:	|:---:	|:---:	|
-| [Calculator](./calculator/problem.md)	| [Markdown Previewer](./markdown-previewer/problem.md) 	| ... 	|
-| [Drum Machine](./drum-machine/problem.md) 	| [To-do List](./todo-list/problem.md) 	| ... 	|
-| ... 	| [Random Quote Machine](./random-quote-machine/problem.md) 	| ... 	|
-| ... 	| ... 	| ... 	|
+| N° | Easy 	| Medium 	| Hard 	|
+|:---: |:---:	|:---:	|:---:	|
+| 1 | [Calculator](./calculator/problem.md)	| [Markdown Previewer](./markdown-previewer/problem.md) 	| ... 	|
+| 2 | [Drum Machine](./drum-machine/problem.md) 	| [To-do List](./todo-list/problem.md) 	| ... 	|
+| 3 | ... 	| [Random Quote Machine](./random-quote-machine/problem.md) 	| ... 	|
+| 4 | ... 	| ... 	| ... 	|
 
 </div>
 
