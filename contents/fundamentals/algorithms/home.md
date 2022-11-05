@@ -8,14 +8,14 @@
 
 <div align="center">
 
-| Easy 	| Medium 	| Hard 	|
-|:---:	|:---:	|:---:	|
-| [Times Character Occurs String](./times-character-occurs-string/problem.md)	| [Palindrome Checker](./palindrome-checker/problem.md) 	| ... 	|
-| [A Very Big Sum](./a-very-big-sum/problem.md) 	| [Build a Square](./build-a-square/problem.md) | ... 	|
-| [Check if a Number is Even](./check-if-a-number-is-even/problem.md) | ... | ... |
-| [Check if all array elements are equal](./check-if-all-array-elements-are-equal/problem.md) | ... | ... |
-| [Stop gninnipS My sdroW!](./stop-gninnips-my-sdrow/problem.md) | ... | ... |
-| [Tabuada (Multiplication Table)](./tabuada/problem.md) | ... | ... |
+| N° | Easy 	| Medium 	| Hard 	|
+|:---: |:---:	|:---:	|:---:	|
+| 1 | [Times Character Occurs String](./times-character-occurs-string/problem.md)	| [Palindrome Checker](./palindrome-checker/problem.md) 	| ... 	|
+| 2 | [A Very Big Sum](./a-very-big-sum/problem.md) 	| [Build a Square](./build-a-square/problem.md) | ... 	|
+| 3 | [Check if a Number is Even](./check-if-a-number-is-even/problem.md) | ... | ... |
+| 4 | [Check if all array elements are equal](./check-if-all-array-elements-are-equal/problem.md) | ... | ... |
+| 5 | [Stop gninnipS My sdroW!](./stop-gninnips-my-sdrow/problem.md) | ... | ... |
+| 6 | [Tabuada (Multiplication Table)](./tabuada/problem.md) | ... | ... |
 
 </div>
 
