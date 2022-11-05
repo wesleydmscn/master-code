@@ -20,7 +20,7 @@
 
 <h3 align="center">Problem</h3>
 
-<p>Create a basic calculator that does simple operations.</p>
+<p>Create a basic drum machine that you can play by pressing keys on the keyboard.</p>
 
 <h3 align="center">Solutions in Codepen</h3>
 
