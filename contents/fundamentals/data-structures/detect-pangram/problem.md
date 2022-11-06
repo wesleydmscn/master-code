@@ -24,3 +24,4 @@ isPangram("A quivering Texas zombie fought republic linked jewelry.") // true
 <h3 align="center">Solution files</h3>
 
 - [Solution (JavaScript)](./solution.js)
+- [Solution (Python)](./solution.py)
