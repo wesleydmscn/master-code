@@ -17,8 +17,6 @@ Hint: Check if your code still works if you change the first or last name.
 
 <h3 align="center">Code:</h3>
 
-<p>Your code should pass all the test cases below:</p>
-
 ```js
 const button = document.getElementById('button');
 button.addEventListener('click' , () => {
