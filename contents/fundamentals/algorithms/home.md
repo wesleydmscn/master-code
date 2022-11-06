@@ -25,4 +25,4 @@
 
 #
 
-<p align="center">Give the repository one 🌟!<p>
+<p align="center">Give the repository 🌟<p>

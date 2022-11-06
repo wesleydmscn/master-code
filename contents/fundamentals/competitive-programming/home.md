@@ -25,4 +25,4 @@ My tip is: start with the "Easy" level, if you find it too easy, go to "Medium" 
 
 #
 
-<p align="center">Give the repository one 🌟!<p>
+<p align="center">Give the repository 🌟<p>
