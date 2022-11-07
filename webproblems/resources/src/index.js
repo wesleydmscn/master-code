@@ -28,6 +28,12 @@ textarea.addEventListener('keydown', event => {
 })
 
 textarea.addEventListener('input', () => {
+  editor.classList.remove('error');
+  editor.classList.remove('correct');
+
+  runCode.classList.remove('fail');
+  runCode.classList.remove('sucess');
+
   editorButton.innerText = "Verify Code";
   editorButton.classList.remove('fail');
   editorButton.classList.remove('sucess');
