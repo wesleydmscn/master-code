@@ -13,7 +13,7 @@ Confirm your code by clicking the button!</p>
 ```
 Hint: Check if your code still works if you change the first or last name.
 ```
-### [Write your code here! (Beta)](https://master-code.vercel.app/webproblems/problems/get-full-name-from-inputs/)
+### [Write your code here! (Beta)](https://master-code.vercel.app/problems/get-full-name-from-inputs/)
 
 <h3 align="center">Code:</h3>
 
