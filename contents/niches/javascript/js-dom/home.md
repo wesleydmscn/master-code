@@ -10,7 +10,7 @@
 
 | N° | Easy 	| Medium 	| Hard 	|
 |:---: |:---:	|:---:	|:---:	|
-| 1 | [Get full-name from inputs](./get-full-name-from-inputs/problem.md)	| ... 	| ... 	|
+| 1 | [Get full-name from inputs](./get-full-name-from-inputs/problem.md)	| [Pop the balloons](./pop-the-balloons/problem.md) 	| ... 	|
 | 2 | ... 	| ... 	| ... 	|
 | 3 | ... 	| ... 	| ... 	|
 | 4 | ... 	| ... 	| ... 	|
