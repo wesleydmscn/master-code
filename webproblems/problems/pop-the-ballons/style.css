@@ -1,0 +1,25 @@
+.problem {
+  display: grid;
+  place-items: center;
+}
+
+#list {
+  display: flex;
+  align-items: center;
+  max-width: 18rem;
+
+  flex-wrap: wrap;
+
+  margin: 1rem;
+
+  justify-content: center;
+  gap: 1rem;
+}
+
+#list li {
+  width: 2.5rem;
+  height: 2.5rem;
+  background-color: tomato;
+  border-radius: 2.5rem;
+  list-style: none;
+}

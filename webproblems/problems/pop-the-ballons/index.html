@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="./../../resources/assets/cat.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="./../../resources/src/base.css">
+    <link rel="stylesheet" href="./style.css">
+
+    <title>JavaScript DOM</title>
+  </head>
+  <body>
+    <main class="container grid">
+      <div id="info" class="flex">
+        <img src="./../../resources/assets/cat.svg">
+        More info?
+      </div>
+
+      <header class="header grid">
+        <h1 class="title">1. Pop the Ballons (Medium)</h1>
+        <p class="description">
+          Make the balloons pop by hovering over them. 
+          Extend the JavaScript code below to interact with the displayed HTML elements. 
+          Every time you hover over a balloon, it should become invisible. 
+          Your goal is to pop all the balloons one after the other.
+        </p>
+      </header>
+  
+      <section class="content flex">
+        <div class="editor_preview problem">
+          <ul id="list">
+            <li/>
+            <li/>
+            <li/>
+            <li/>
+            <li/>
+            <li/>
+            <li/>
+            <li/>
+            <li/>
+            <li/>
+          </ul>
+        </div>
+  
+        <div class="editor">
+          <button class="run-code">Run</button>
+          <div class="line-numbers">
+              <span></span>
+          </div>
+          <textarea></textarea>
+        </div>
+      </section>
+
+      <button id="editor_run">Verify Code</button>
+    </main>
+
+    <div id="container_md">
+      <div id="md" class="flex">
+        <div class="more_info grid">
+          <h3>More Tips:</h3>
+          <p>HTML:</p>
+
+          <img src="./assets/html-input.png" alt="code in HTML">
+          
+          <p>Warning: To pass the tests, check the problem text correctly. 
+          Tests are verified based on the final result.</p>
+        </div>
+
+        <button class="close_md">Close</button>
+      </div>
+    </div>
+
+    <script type="module" src="./../../resources/src/index.js"></script>
+    <script src="./tester.js"></script>
+  </body>
+</html>
