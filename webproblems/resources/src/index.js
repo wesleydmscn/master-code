@@ -59,9 +59,3 @@ closeModal.addEventListener('click', () => {
   document.querySelector('#container_md').classList.remove('active');
   document.body.classList.remove('fullscreen');
 })
-
-document.addEventListener('keydown', (event) => {
-  if (event.key === 'Tab') {
-    event.preventDefault();
-  }
-})

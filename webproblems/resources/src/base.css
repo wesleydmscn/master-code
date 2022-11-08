@@ -220,8 +220,6 @@ textarea {
   justify-content: space-between;
 
   width: min(38vw, 50rem);
-  height: min(42vh, 25rem);
-
   padding: var(--padding-title);
 
   background-color: var(--bg-code-color);
@@ -233,7 +231,7 @@ textarea {
 }
 
 .close_md {
-  color: var(--text-color);
+  color: var(--bg-color);
 
   font-size: var(--size-paragraph);
   background-color: var(--primary-color);
@@ -241,6 +239,7 @@ textarea {
   border-radius: var(--radius);
   border: 0;
 
+  margin-top: 1rem;
   padding: var(--padding-title);
   transition: all 100ms ease-in-out;
 }
