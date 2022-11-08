@@ -1,0 +1,84 @@
+:root {
+  --blue: #317BC0;
+  --dark: #0D1117;
+  --white: #FFF;
+  --gray: #9EA0A2;
+
+  --inter: 'Inter', monospace;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  background-color: var(--dark);
+
+  font-family: var(--inter);
+}
+
+.grid {
+  display: grid;
+}
+.flex {
+  display: flex;
+}
+
+:is(#app, header) {
+  row-gap: 2.625rem;
+  justify-items: center;
+}
+
+header {
+  row-gap: 1.5rem;
+}
+#logo {
+  margin-top: 4.5rem;
+  width: clamp(20vw, 70%, 80vw);
+}
+.description {
+  margin-inline: 16%;
+  color: var(--gray);
+
+  text-align: center;
+  font-size: 1rem;
+}
+
+main > a {
+  color: var(--blue);
+  text-decoration: none;
+}
+main {
+  margin-inline: 2rem;
+
+  align-items: center;
+  justify-content: center;
+
+  flex-wrap: wrap;
+  gap: 1.5rem;
+}
+#go-to-webproblems {
+  border-bottom: .1rem solid var(--blue);
+}
+#go-to-repo {
+  color: var(--dark);
+  background-color: var(--blue);
+  border-radius: .5rem;
+  padding: .625rem 1.5rem;
+}
+
+:is(#go-to-webproblems, #go-to-repo) {
+  transition: all 100ms ease-in-out;
+}
+:is(#go-to-webproblems:hover, #go-to-repo:hover) {
+  transform: translateY(-.4rem);
+}
+
+#repo-screenshot {
+  width: 90%;
+}
