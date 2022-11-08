@@ -23,3 +23,11 @@
   border-radius: 2.5rem;
   list-style: none;
 }
+
+.more_info {
+  row-gap: 1rem;
+}
+.more_info img {
+  width: 100%;
+  border-radius: .4rem;
+}
