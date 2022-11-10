@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="../../../README.md">< Back</a>
+  <a href="/README.md">< Back</a>
 </p>
 
 <h2>Frontend Challenges</h2>
@@ -8,20 +8,22 @@
 
 <div align="center">
 
-| N° | Easy 	| Medium 	| Hard 	|
-|:---: |:---:	|:---:	|:---:	|
-| 1 | [Calculator](./calculator/problem.md)	| [Markdown Previewer](./markdown-previewer/problem.md) 	| ... 	|
-| 2 | [Drum Machine](./drum-machine/problem.md) 	| [To-do List](./todo-list/problem.md) 	| ... 	|
-| 3 | ... 	| [Random Quote Machine](./random-quote-machine/problem.md) 	| ... 	|
-| 4 | ... 	| ... 	| ... 	|
+| N° | Tag 	| Description 	|
+|:---: |---	|:---:	|
+| 1 | [HTML, CSS and JavaScript](./html-css-js/home.md)	| ...	|
+| 2 | [Modern WebApps](./modern-webapps/home.md)	| ...	|
+| 3 | [CSS Problems](./css/home.md)	| ...	|
+| 4 | [JavaScript](./javascript/home.md) | ... |
+| 5 | [TypeScript](./typescript/home.md) | ... |
+| 6 | [Figma](./figma/home.md)	| ... |
 
 </div>
 
-<h3 align="center">Tips</h3>
+<h3 align="center">Note</h3>
 
-<p align="center">Level up your creative problem-solving skills with these free frontend programming tasks.
-<br>
-My tip is: start with the "Easy" level, if you find it too easy, go to "Medium" and so on, good code!</p>
+<p align="center">
+  Level up your creative problem-solving skills with these free frontend programming tasks.
+</p>
 
 #
 
