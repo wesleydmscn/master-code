@@ -48,11 +48,10 @@ In this section you will find problems with fundamental computing tags:
 
 ## Contribution
 
-<p>
-  For greater simplicity and wealth of information, I decided that Github Wikis would be ideal for good documentation. <br>
-  For information on how to contribute to the project, check out our [Wiki].
-  There you will see file and folder structure examples and templates.
-</p>
+For greater simplicity and wealth of information, I decided that Github Wikis would be ideal for good documentation. <br>
+For information on how to contribute to the project, check out our [Wiki](https://github.com/wesleydamasceno/master-code/wiki).
+There you will see file and folder structure examples and templates.
+
 
 ## License
 

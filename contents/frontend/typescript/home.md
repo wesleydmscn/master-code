@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="../../../README.md">< Back</a>
+  <a href="./../home.md">< Back</a>
 </p>
 
 <h2>TypeScript</h2>
