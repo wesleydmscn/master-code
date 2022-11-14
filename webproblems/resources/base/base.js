@@ -1,33 +1,5 @@
-// Editor
-
-const textarea = document.querySelector('textarea')
-const lineNumbers = document.querySelector('.line-numbers')
-const numberOfLines = textarea.value.split('\n').length
-
-lineNumbers.innerHTML = Array(numberOfLines)
-  .fill('<span></span>')
-  .join('')
-
-textarea.addEventListener('keyup', event => {
-  const numberOfLines = event.target.value.split('\n').length
-
-  lineNumbers.innerHTML = Array(numberOfLines)
-    .fill('<span></span>')
-    .join('')
-})
-
-textarea.addEventListener('keydown', event => {
-  if (event.key === 'Tab') {
-    const start = textarea.selectionStart
-    const end = textarea.selectionEnd
-
-    textarea.value = textarea.value.substring(0, start) + '  ' + textarea.value.substring(end)
-
-    event.preventDefault()
-  }
-})
-
-textarea.addEventListener('input', () => {
+// Utils
+const removeTestEvents = () => {
   editor.classList.remove('error');
   editor.classList.remove('correct');
 
@@ -37,10 +9,38 @@ textarea.addEventListener('input', () => {
   editorButton.innerText = "Verify Code";
   editorButton.classList.remove('fail');
   editorButton.classList.remove('sucess');
+}
+
+// Editor (Line Number)
+const textarea = document.querySelector('textarea')
+const lineNumbers = document.querySelector('.line-numbers')
+const numberOfLines = textarea.value.split('\n').length
+
+lineNumbers.innerHTML = Array(numberOfLines).fill('<span></span>').join('');
+
+textarea.addEventListener('keyup', event => {
+  const numberOfLines = event.target.value.split('\n').length;
+
+  lineNumbers.innerHTML = Array(numberOfLines).fill('<span></span>').join('');
+})
+
+textarea.addEventListener('keydown', event => {
+  if (event.key === 'Tab') {
+    const start = textarea.selectionStart
+    const end = textarea.selectionEnd
+
+    textarea.value = textarea.value.substring(0, start) + '  ' + textarea.value.substring(end);
+
+    event.preventDefault()
+  }
 })
 
 // Run Code
 const runCode = document.querySelector('.run-code');
+
+textarea.addEventListener('input', () => {
+  removeTestEvents();
+})
 
 runCode.addEventListener('click', () => {
   eval(textarea.value);
