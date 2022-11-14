@@ -1,4 +1,40 @@
+export const textarea = document.querySelector('textarea');
+export const editorButton = document.querySelector('#editor_run');
+
+const lineNumbers = document.querySelector('.line-numbers');
+const numberOfLines = textarea.value.split('\n').length;
+
+const openModal = document.querySelector('#info');
+const closeModal = document.querySelector('.close_md');
+
+const editor = document.querySelector('.editor');
+const runCode = document.querySelector('.run-code');
+
 // Utils
+export const testSucess = () => {
+  editor.classList.remove('error');
+  editor.classList.add('correct');
+
+  editorButton.innerText = "Sucess";
+  editorButton.classList.remove('fail');
+  editorButton.classList.add('sucess');
+
+  runCode.classList.remove('fail');
+  runCode.classList.add('sucess');
+}
+
+export const testFail = () => {
+  editor.classList.remove('correct');
+  editor.classList.add('error');
+
+  editorButton.innerText = "Fail";
+  editorButton.classList.remove('sucess');
+  editorButton.classList.add('fail');
+
+  runCode.classList.remove('sucess');
+  runCode.classList.add('fail');
+}
+
 const removeTestEvents = () => {
   editor.classList.remove('error');
   editor.classList.remove('correct');
@@ -12,10 +48,6 @@ const removeTestEvents = () => {
 }
 
 // Editor (Line Number)
-const textarea = document.querySelector('textarea')
-const lineNumbers = document.querySelector('.line-numbers')
-const numberOfLines = textarea.value.split('\n').length
-
 lineNumbers.innerHTML = Array(numberOfLines).fill('<span></span>').join('');
 
 textarea.addEventListener('keyup', event => {
@@ -36,8 +68,6 @@ textarea.addEventListener('keydown', event => {
 })
 
 // Run Code
-const runCode = document.querySelector('.run-code');
-
 textarea.addEventListener('input', () => {
   removeTestEvents();
 })
@@ -47,9 +77,6 @@ runCode.addEventListener('click', () => {
 })
 
 // Modal
-const openModal = document.querySelector('#info');
-const closeModal = document.querySelector('.close_md');
-
 openModal.addEventListener('click', () => {
   document.querySelector('#container_md').classList.add('active');
   document.body.classList.add('fullscreen');
