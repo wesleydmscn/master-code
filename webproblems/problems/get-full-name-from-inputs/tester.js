@@ -1,12 +1,10 @@
-// Editor Elements
-const editor = document.querySelector('.editor');
-const lineNumbers = document.querySelector('.line-numbers')
-const code = document.querySelector('textarea');
-const runCode = document.querySelector('.run-code');
+import { textarea } from "../../resources/base/base.js";
+import { editorButton } from "../../resources/base/base.js";
 
-const editorButton = document.querySelector('#editor_run');
+import { testSucess } from "../../resources/base/base.js";
+import { testFail } from "../../resources/base/base.js";
 
-code.value = 
+textarea.value = 
 `const button = document.querySelector('.button');
 button.addEventListener('click' , () => {
   // type in your code here
@@ -18,26 +16,12 @@ const firstName = document.querySelector('#firstName');
 const lastName = document.querySelector('#lastName');
 
 editorButton.addEventListener('click', () => {
-  if (fullName.value === `${firstName.value} ${lastName.value}`) {
-    editor.classList.remove('error');
-    editor.classList.add('correct');
+  const test = fullName.value === `${firstName.value} ${lastName.value}`;
 
-    editorButton.innerText = "Sucess";
-    editorButton.classList.remove('fail');
-    editorButton.classList.add('sucess');
-
-    runCode.classList.remove('fail');
-    runCode.classList.add('sucess');
+  if (test) {
+    testSucess();
   } 
   else {
-    editor.classList.remove('correct');
-    editor.classList.add('error');
-
-    editorButton.innerText = "Fail";
-    editorButton.classList.remove('sucess');
-    editorButton.classList.add('fail');
-
-    runCode.classList.remove('sucess');
-    runCode.classList.add('fail');
+    testFail();
   }
 })
