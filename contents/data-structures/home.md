@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="/README.md">< Back</a>
+  <a href="/README.md">Back</a>
 </p>
 
 <h2>Data Structures</h2>
@@ -8,19 +8,21 @@
 
 <div align="center">
 
-| N° | Easy 	| Medium 	| Hard 	|
-|:---: |:---:	|:---:	|:---:	|
-| 1 | [The sum of a Range](./the-sum-of-a-range/problem.md)	| [A list (JS)](./a-list/problem.md) 	| ... 	|
-| 2 | [Reversing an array (JS)](./reversing-an-array/problem.md) 	| [Deep Comparison (JS)](./deep-comparison/problem.md) 	| ... 	|
-| 3 | ... | [Detect Pangram](./detect-pangram/problem.md) | ... |
-| 4 | ... | ... | ... |
+| N° | Name	| Difficulty | Plaform |
+|:---: |---	|:---:	|:---:	|
+| 1 | [The sum of a Range](./the-sum-of-a-range/)	| Beginner | [Eloquent JavaScript](https://eloquentjavascript.net/code/#4.1)	|
+| 2 | [A list (JS)](./a-list/)	| Beginner | [Eloquent JavaScript](https://eloquentjavascript.net/code/#4.3) |
+| 3 | [Reversing an array (JS)](./reversing-an-array/) | Beginner | [Eloquent JavaScript](https://eloquentjavascript.net/code/#4.2) |
+| 4 | [Deep Comparison (JS)](./deep-comparison/) | Beginner | [Eloquent JavaScript](https://eloquentjavascript.net/code/#4.4) |
+| 5 | [Detect Pangram](./detect-pangram/) | Beginner | [Codewars](https://www.codewars.com/kata/545cedaa9943f7fe7b000048) |
+| 6 | ... | ... | ... |
+| 7 | ... | ... | ... |
+| 8 | ... | ... | ... |
 
 </div>
 
-<h3 align="center">Tips</h3>
+<h3>Note</h3>
 
-<p align="center">This section contains random coding challenges that test your knowledge of <code>Data Structures</code>.<br> My tip is: Start with the "Easy" level, if you find it too easy, go to "Medium" and so on, good code!</p>
-
-#
-
-<p align="center">Give the repository 🌟<p>
+<p>
+  This section contains random coding challenges that test your knowledge of <code>Data Structures</code>.<br> Separated by difficulty level and by platform.
+</p>
