@@ -8,7 +8,7 @@
 
 <div align="center">
 
-| N° | Name	| Difficulty | Plaform |
+| N° | Name	| Difficulty | Source |
 |:---: |---	|:---:	|:---:	|
 | 1 | [Times Character Occurs String](./times-character-occurs-string/)	| Beginner | [JS Challenger](https://www.jschallenger.com/javascript-practice/javascript-fundamentals/times-character-occurs-string)	|
 | 2 | [Check if a Number is Even](./check-if-a-number-is-even/) | Beginner | [JS Challenger](https://www.jschallenger.com/javascript-practice/javascript-fundamentals/check-if-number-is-even) |

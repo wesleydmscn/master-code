@@ -8,7 +8,7 @@
 
 <div align="center">
 
-| N° | Name	| Difficulty | Plaform |
+| N° | Name	| Difficulty | Source |
 |:---: |---	|:---:	|:---:	|
 | 1 | [The sum of a Range](./the-sum-of-a-range/)	| Beginner | [Eloquent JavaScript](https://eloquentjavascript.net/code/#4.1)	|
 | 2 | [A list (JS)](./a-list/)	| Beginner | [Eloquent JavaScript](https://eloquentjavascript.net/code/#4.3) |
