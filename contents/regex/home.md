@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="/README.md">< Back</a>
+  <a href="/README.md">Back</a>
 </p>
 
 <h2>Regex</h2>
@@ -8,19 +8,21 @@
 
 <div align="center">
 
-| N° | Easy 	| Medium 	| Hard 	|
-|:---: |:---:	|:---:	|:---:	|
-| 1 | [Matching Specific String](./matching-specific-string/problem.md)	| [IP Validation](./ip-validation/problem.md) | ... |
-| 2 | [Simple validation of a username](./simple-validation-of-a-username/problem.md) | ... | ... |
-| 3 | [Fix my phone Numbers](./fix-my-phone-numbers/problem.md) | ... | ... |
-| 4 | ... | ... | ... |
+| N° | Name	| Difficulty | Source |
+|:---: |---	|:---:	|:---:	|
+| 1 | [Matching Specific String](./matching-specific-string/)	| Beginner | [Hackerrank](https://www.hackerrank.com/challenges/matching-specific-string/problem)	|
+| 2 | [IP Validation](./ip-validation/)	| Beginner | [Codewars](https://www.codewars.com/kata/515decfd9dcfc23bb6000006) |
+| 3 | [Simple validation of a username](./simple-validation-of-a-username/) | Beginner | [Codewars](https://www.codewars.com/kata/56a3f08aa9a6cc9b75000023) |
+| 4 | [Fix my phone Numbers](./fix-my-phone-numbers/) | Beginner | [Codewars](https://www.codewars.com/kata/596343a24489a8b2a00000a2) |
+| 5 | ... | ... | ... |
+| 6 | ... | ... | ... |
+| 7 | ... | ... | ... |
+| 8 | ... | ... | ... |
 
 </div>
 
-<h3 align="center">Tips</h3>
+<h3>Note</h3>
 
-<p align="center">This section contains random coding challenges that test your knowledge of <code>Regex</code>.<br> My tip is: Start with the "Easy" level, if you find it too easy, go to "Medium" and so on, good code!</p>
-
-#
-
-<p align="center">Give the repository 🌟<p>
+<p>
+  This section contains random coding challenges that test your knowledge of <code>Regex</code>.<br> Separated by difficulty level and by platform.
+</p>
