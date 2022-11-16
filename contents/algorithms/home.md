@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="/README.md">< Back</a>
+  <a href="/README.md">Back</a>
 </p>
 
 <h2>Algorithms</h2>
@@ -8,21 +8,21 @@
 
 <div align="center">
 
-| N° | Easy 	| Medium 	| Hard 	|
-|:---: |:---:	|:---:	|:---:	|
-| 1 | [Times Character Occurs String](./times-character-occurs-string/problem.md)	| [Palindrome Checker](./palindrome-checker/problem.md) 	| ... 	|
-| 2 | [A Very Big Sum](./a-very-big-sum/problem.md) 	| [Build a Square](./build-a-square/problem.md) | ... 	|
-| 3 | [Check if a Number is Even](./check-if-a-number-is-even/problem.md) | ... | ... |
-| 4 | [Check if all array elements are equal](./check-if-all-array-elements-are-equal/problem.md) | ... | ... |
-| 5 | [Stop gninnipS My sdroW!](./stop-gninnips-my-sdrow/problem.md) | ... | ... |
-| 6 | [Tabuada (Multiplication Table)](./tabuada/problem.md) | ... | ... |
+| N° | Name	| Difficulty | Plaform |
+|:---: |---	|:---:	|:---:	|
+| 1 | [Times Character Occurs String](./times-character-occurs-string/)	| Beginner | [JS Challenger](https://www.jschallenger.com/javascript-practice/javascript-fundamentals/times-character-occurs-string)	|
+| 2 | [Check if a Number is Even](./check-if-a-number-is-even/) | Beginner | [JS Challenger](https://www.jschallenger.com/javascript-practice/javascript-fundamentals/check-if-number-is-even) |
+| 3 | [Check if all array elements are equal](./check-if-all-array-elements-are-equal/) | Beginner | [JS Challenger](https://www.jschallenger.com/javascript-practice/javascript-arrays/check-if-array-elements-are-equal) |
+| 4 | [Tabuada (Multiplication Table)](./tabuada/) | Beginner | By me |
+| 5 | [A Very Big Sum](./a-very-big-sum/) 	| Beginner | [Hackerrank](https://www.hackerrank.com/challenges/a-very-big-sum/problem) |
+| 6 | [Palindrome Checker](./palindrome-checker/) | Beginner | [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker) |
+| 7 | [Stop gninnipS My sdroW!](./stop-gninnips-my-sdrow/) | Beginner | [Codewars](https://www.codewars.com/kata/5264d2b162488dc400000001) |
+| 8 | [Build a Square](./build-a-square/) | Beginner | [Codewars](https://www.codewars.com/kata/59a96d71dbe3b06c0200009c) |
 
 </div>
 
-<h3 align="center">Tips</h3>
+<h3>Note</h3>
 
-<p align="center">This section contains random coding challenges that test your knowledge of <code>Algorithms</code>.<br> My tip is: Start with the "Easy" level, if you find it too easy, go to "Medium" and so on, good code!</p>
-
-#
-
-<p align="center">Give the repository 🌟<p>
+<p>
+  This section contains random coding challenges that test your knowledge of <code>Algorithms</code>.<br> Separated by difficulty level and by platform.
+</p>
