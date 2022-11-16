@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Master Code <img align="center" src="./.github/cat.svg"/></h1>
   <p align="center">
-    Project focused on saving my solutions for platform challenges like Codeforces/Hackerrank/LeetCode and more.
+    Project focused on saving my solutions for platform challenges like Codeforces/Hackerrank/LeetCode...
   </p>
 </div>
 
