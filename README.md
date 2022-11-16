@@ -1,14 +1,14 @@
 <div>
   <h1 align="center">Master Code <img align="center" src="./.github/cat.svg"/></h1>
   <p align="center">
-    Project focused on saving my solutions for platform challenges like Codeforces/Hackerrank/LeetCode...
+    Project focused on saving solutions to challenges made on platforms such as Codeforces/Hackerrank/LeetCode...
   </p>
 </div>
 
 
 ## Tags
 
-In this section, you'll find solutions to challenges with fundamental compute tags:
+In this section, there are solutions to challenges with fundamental compute tags:
 
 <table align="center">
   <tbody>
