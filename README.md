@@ -1,21 +1,14 @@
 <div>
   <h1 align="center">Master Code <img align="center" src="./.github/cat.svg"/></h1>
   <p align="center">
-    Project focused on helping developers and enthusiasts practice their logic and problem solving skills.
+    Project focused on saving my solutions for platform challenges like Codeforces/Hackerrank/LeetCode and more.
   </p>
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/wesleydamasceno/master-code?style=for-the-badge">
-  <img src="https://img.shields.io/github/contributors/wesleydamasceno/master-code?logoColor=green&style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/wesleydamasceno/master-code?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/wesleydamasceno/master-code?style=for-the-badge">
-</p>
 
+## Tags
 
-## Fundamentals
-
-In this section you will find problems with fundamental computing tags:
+In this section, you'll find solutions to challenges with fundamental compute tags:
 
 <table align="center">
   <tbody>
@@ -45,13 +38,6 @@ In this section you will find problems with fundamental computing tags:
     </tr>
   </tbody>
 </table>
-
-## Contribution
-
-For greater simplicity and wealth of information, I decided that Github Wikis would be ideal for good documentation. <br>
-For information on how to contribute to the project, check out our [Wiki](https://github.com/wesleydamasceno/master-code/wiki).
-There you will see file and folder structure examples and templates.
-
 
 ## License
 
