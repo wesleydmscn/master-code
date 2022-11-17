@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="/README.md">< Back</a>
+  <a href="/README.md">Back</a>
 </p>
 
 <h2>Computer Networks</h2>
@@ -8,21 +8,21 @@
 
 <div align="center">
 
-| N° | Easy 	| Medium 	| Hard 	|
-|:---: |:---:	|:---:	|:---:	|
-| 1 | ...	| ... 	| ... 	|
-| 2 | ... 	| ... 	| ... 	|
-| 3 | ... 	| ... 	| ... 	|
-| 4 | ... 	| ... 	| ... 	|
+| N° | Name	| Difficulty | Source |
+|:---: |---	|:---:	|:---:	|
+| 1 | ...	| ... | ...	|
+| 2 | ...	| ... | ... |
+| 3 | ... | ... | ... |
+| 4 | ... | ... | ... |
+| 5 | ... | ... | ... |
+| 6 | ... | ... | ... |
+| 7 | ... | ... | ... |
+| 8 | ... | ... | ... |
 
 </div>
 
-<h3 align="center">Tips</h3>
+<h3>Note</h3>
 
-<p align="center">Level up your creative problem-solving skills with these free computer-networks tasks.
-<br>
-My tip is: start with the "Easy" level, if you find it too easy, go to "Medium" and so on, good code!</p>
-
-#
-
-<p align="center">Give the repository 🌟<p>
+<p>
+  This section contains random coding challenges that test your knowledge of <code>Computer Networks</code>.<br> Separated by difficulty level and by platform.
+</p>
