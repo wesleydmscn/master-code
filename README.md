@@ -26,15 +26,15 @@ In this section, there are solutions to challenges with fundamental compute tags
     </tr>
     <tr>
       <td align="center"><a href="./contents/functional-programming/home.md">Functional Programming</a></td>
-      <td align="center"><a href="./contents/frontend/home.md">Object-oriented Programming</a></td>
+      <td align="center"><a href="./contents/object-oriented/home.md">Object-oriented Programming</a></td>
       <td align="center"><a href="./contents/dynamic-programming/home.md">Dynamic Programming</a></td>
       <td align="center"><a href="./contents/competitive-programming/home.md">Competitive Programming</a></td>
     </tr>
     <tr>
-      <td align="center"><a href="./contents/backend/home.md">Project Euler</a></td>
+      <td align="center"><a href="./contents/project-euler/home.md">Project Euler</a></td>
       <td align="center"><a href="./contents/rosetta-code/home.md">Rosetta Code</a></td>
       <td align="center"><a href="./contents/puzzles/home.md">Puzzles</a></td>
-      <td align="center"><a href="./contents/computer-networks/home.md">CTF</a></td>
+      <td align="center"><a href="./contents/capture-the-flag/home.md">CTF</a></td>
     </tr>
   </tbody>
 </table>
