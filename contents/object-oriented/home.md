@@ -1,30 +1,28 @@
 <p align="right">
-  <a href="/README.md">< Back</a>
+  <a href="/README.md">Back</a>
 </p>
 
-<h2>Frontend Challenges</h2>
+<h2>Object-oriented Programming</h2>
 
 <h3 align="center">Problems</h3>
 
 <div align="center">
 
-| N° | Tag 	| Description 	|
-|:---: |---	|:---:	|
-| 1 | [HTML, CSS and JavaScript](./html-css-js/home.md)	| ...	|
-| 2 | [Modern WebApps](./modern-webapps/home.md)	| ...	|
-| 3 | [CSS Problems](./css/home.md)	| ...	|
-| 4 | [JavaScript](./javascript/home.md) | ... |
-| 5 | [TypeScript](./typescript/home.md) | ... |
-| 6 | [Figma](./figma/home.md)	| ... |
+| N° | Name	| Difficulty | Source |
+|:---: |---	|:---:	|:---:	|
+| 1 | ...	| ... | ...	|
+| 2 | ...	| ... | ... |
+| 3 | ... | ... | ... |
+| 4 | ... | ... | ... |
+| 5 | ... | ... | ... |
+| 6 | ... | ... | ... |
+| 7 | ... | ... | ... |
+| 8 | ... | ... | ... |
 
 </div>
 
-<h3 align="center">Note</h3>
+<h3>Note</h3>
 
-<p align="center">
-  Level up your creative problem-solving skills with these free frontend programming tasks.
+<p>
+  This section contains random coding challenges that test your knowledge of <code>Object-oriented Programming</code>.<br> Separated by difficulty level and by platform.
 </p>
-
-#
-
-<p align="center">Give the repository 🌟<p>
