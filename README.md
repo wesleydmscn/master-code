@@ -19,22 +19,22 @@ In this section, there are solutions to challenges with fundamental compute tags
       <td align="center"><a href="./contents/regex/home.md">Regex</a></td>
     </tr>
     <tr>
-      <td align="center"><a href="./contents/frontend/home.md">Frontend</a></td>
-      <td align="center"><a href="./contents/backend/home.md">Backend</a></td>
+      <td align="center"><a href="./contents/computer-science/home.md">Computer Science</a></td>
       <td align="center"><a href="./contents/debugging/home.md">Debugging</a></td>
       <td align="center"><a href="./contents/refactoring/home.md">Refactoring</a></td>
-    </tr>
-    <tr>
-      <td align="center"><a href="./contents/functional-programming/home.md">Functional Programming</a></td>
-      <td align="center"><a href="./contents/dynamic-programming/home.md">Dynamic Programming</a></td>
-      <td align="center"><a href="./contents/computer-science/home.md">Computer Science</a></td>
       <td align="center"><a href="./contents/coding-interview/home.md">Coding Interview</a></td>
     </tr>
     <tr>
+      <td align="center"><a href="./contents/functional-programming/home.md">Functional Programming</a></td>
+      <td align="center"><a href="./contents/frontend/home.md">Object-oriented Programming</a></td>
+      <td align="center"><a href="./contents/dynamic-programming/home.md">Dynamic Programming</a></td>
       <td align="center"><a href="./contents/competitive-programming/home.md">Competitive Programming</a></td>
-      <td align="center"><a href="./contents/computer-networks/home.md">Computer Networks</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="./contents/backend/home.md">Project Euler</a></td>
       <td align="center"><a href="./contents/rosetta-code/home.md">Rosetta Code</a></td>
       <td align="center"><a href="./contents/puzzles/home.md">Puzzles</a></td>
+      <td align="center"><a href="./contents/computer-networks/home.md">CTF</a></td>
     </tr>
   </tbody>
 </table>
