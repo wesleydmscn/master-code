@@ -1,28 +1,28 @@
 <p align="right">
-  <a href="/README.md">< Back</a>
+  <a href="/README.md">Back</a>
 </p>
 
-<h2>Backend Challenges</h2>
+<h2>Project Euler</h2>
 
 <h3 align="center">Problems</h3>
 
 <div align="center">
 
-| N° | Tag 	| Description 	|
-|:---: |---	|:---:	|
-| 1 | [API](./api/home.md)	| ... 	|
-| 2 | [Databases](./databases/home.md) 	| ... 	|
-| 3 | ... 	| ... 	|
-| 4 | ... 	| ... 	|
+| N° | Name	| Difficulty | Source |
+|:---: |---	|:---:	|:---:	|
+| 1 | ...	| ... | ...	|
+| 2 | ...	| ... | ... |
+| 3 | ... | ... | ... |
+| 4 | ... | ... | ... |
+| 5 | ... | ... | ... |
+| 6 | ... | ... | ... |
+| 7 | ... | ... | ... |
+| 8 | ... | ... | ... |
 
 </div>
 
-<h3 align="center">Note</h3>
+<h3>Note</h3>
 
-<p align="center">
-  Level up your creative problem-solving skills with these free backend programming tasks.
+<p>
+  This section contains random coding challenges that test your knowledge of <code>Project Euler</code>.<br> Separated by difficulty level and by platform.
 </p>
-
-#
-
-<p align="center">Give the repository 🌟<p>
