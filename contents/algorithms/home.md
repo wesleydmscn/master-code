@@ -18,6 +18,8 @@
 | 6 | [Palindrome Checker](./palindrome-checker/) | Beginner | [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker) |
 | 7 | [Stop gninnipS My sdroW!](./stop-gninnips-my-sdrow/) | Beginner | [Codewars](https://www.codewars.com/kata/5264d2b162488dc400000001) |
 | 8 | [Build a Square](./build-a-square/) | Beginner | [Codewars](https://www.codewars.com/kata/59a96d71dbe3b06c0200009c) |
+| 9 | [Sort Numbers](./sort-numbers/) | Beginner | [Codewars](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003) |
+| 10 | ... | ... | ... |
 
 </div>
 
