@@ -14,7 +14,7 @@
 | 2 | [IP Validation](./ip-validation/)	| Beginner | [Codewars](https://www.codewars.com/kata/515decfd9dcfc23bb6000006) |
 | 3 | [Simple validation of a username](./simple-validation-of-a-username/) | Beginner | [Codewars](https://www.codewars.com/kata/56a3f08aa9a6cc9b75000023) |
 | 4 | [Fix my phone Numbers](./fix-my-phone-numbers/) | Beginner | [Codewars](https://www.codewars.com/kata/596343a24489a8b2a00000a2) |
-| 5 | ... | ... | ... |
+| 5 | [Not very secure](./not-very-secure/) | Beginner | [Codewars](https://www.codewars.com/kata/526dbd6c8c0eb53254000110) |
 | 6 | ... | ... | ... |
 | 7 | ... | ... | ... |
 | 8 | ... | ... | ... |
