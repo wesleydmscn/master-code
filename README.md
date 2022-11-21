@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Master Code <img align="center" src="./.github/cat.svg"/></h1>
   <p align="center">
-    Project focused on saving solutions to challenges made on platforms such as Codeforces/Hackerrank/LeetCode...
+    Project focused on saving solutions to challenges made on platforms such as Codewars/Hackerrank/LeetCode...
   </p>
 </div>
 
@@ -41,4 +41,4 @@ In this section, there are solutions to challenges with fundamental compute tags
 
 ## License
 
-This project is under the [MIT](./LICENSE) license.
+[MIT](./LICENSE)
