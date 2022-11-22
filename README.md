@@ -41,4 +41,4 @@ In this section, there are solutions to challenges with fundamental compute tags
 
 ## License
 
-[MIT](./LICENSE)
+Licensed under the [MIT](./LICENSE) license.
