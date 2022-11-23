@@ -17,7 +17,7 @@
 | 5 | [Prime Number Finder (JS)](./prime-number-finder/) 	| Beginner | [Codeacademy](https://www.codecademy.com/code-challenges/code-challenge-prime-number-finder-python) |
 | 6 | [Area of a Triangle](./area-of-a-triangle/) | Beginner | --- |
 | 7 | [Triangular Number Sequence](./triangular-number-sequence/) | Beginner | --- |
-| 8 | ... | ... | ... |
+| 8 | [Count Odd Numbers in an Interval Range](./count-odd-numbersi-in-an-interval-range/) | Beginner | [LeetCode](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/) |
 
 </div>
 
