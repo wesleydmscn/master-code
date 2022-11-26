@@ -1,11 +1,5 @@
 function aVeryBigSum(integers) {
-  let total = 0;
-
-  for (let integer of integers) {
-    total += integer;
-  }
-
-  return total;
+  return integers.reduce((acc, curr) => acc + curr, 0);
 }
 
 const test_cases = {
