@@ -1,0 +1,34 @@
+<p align="right">
+  <a href="./../page_1/home.md">Back</a>
+</p>
+
+<h2>Algorithms</h2>
+
+<h3 align="center">Problems</h3>
+
+<div align="center">
+
+| N° | Name	| Difficulty | Source |
+|:---: |---	|:---:	|:---:	|
+| 11 | [CamelCase Method](./camelcase-method/)	| Beginner | [Codewars](https://www.codewars.com/kata/587731fda577b3d1b0001196/)	|
+| 12 | ... | ... | ... |
+| 13 | ... | ... | ... |
+| 14 | ... | ... | ... |
+| 15 | ... | ... | ... |
+| 16 | ... | ... | ... |
+| 17 | ... | ... | ... |
+| 18 | ... | ... | ... |
+| 19 | ... | ... | ... |
+| 20 | ... | ... | ... |
+
+</div>
+
+<h3>Note</h3>
+
+<p>
+  This section contains random coding challenges that test your knowledge of <code>Algorithms</code>.<br> Separated by difficulty level and by platform.
+</p>
+
+<p align="right">
+  <a href="#">Next page</a>
+</p>
