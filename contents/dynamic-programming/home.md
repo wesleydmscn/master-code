@@ -10,7 +10,7 @@
 
 | N° | Name	| Difficulty | Source |
 |:---: |---	|:---:	|:---:	|
-| 1 | ...	| ... | ...	|
+| 1 | [Pyramid Slide Down](./pyramid-slide-down/)	| Intermediary | [Codewars](https://www.codewars.com/kata/551f23362ff852e2ab000037/)	|
 | 2 | ...	| ... | ... |
 | 3 | ... | ... | ... |
 | 4 | ... | ... | ... |
