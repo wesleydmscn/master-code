@@ -5,4 +5,4 @@ test_cases = {
   "case 1": unusual_five()
 }
 
-print(unusual_five())
+print(test_cases)
