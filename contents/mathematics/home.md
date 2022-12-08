@@ -19,6 +19,7 @@
 | 7 | [Triangular Number Sequence](./triangular-number-sequence/) | Beginner | --- |
 | 8 | [Count Odd Numbers in an Interval Range](./count-odd-numbersi-in-an-interval-range/) | Beginner | [LeetCode](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/) |
 | 9 | [Sum of Digits / Digital Root](./sum-of-digits-digital-root/) | Beginner | [Codewars](https://www.codewars.com/kata/541c8630095125aba6000c00/) |
+| 10 | [Sum of Angles](./sum-of-angles/) | Beginner | [Codewars](https://www.codewars.com/kata/5a03b3f6a1c9040084001765/) |
 
 </div>
 
