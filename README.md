@@ -15,7 +15,7 @@ In this section, there are solutions to challenges with fundamental compute tags
     <tr>
       <td align="center"><a href="./contents/algorithms/page_1/home.md">Algorithms</a></td>
       <td align="center"><a href="./contents/data-structures/home.md">Data Structures</a></td>
-      <td align="center"><a href="./contents/mathematics/home.md">Mathematics</a></td>
+      <td align="center"><a href="./contents/mathematics/page_1/home.md">Mathematics</a></td>
       <td align="center"><a href="./contents/regex/home.md">Regex</a></td>
     </tr>
     <tr>
