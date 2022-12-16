@@ -28,3 +28,7 @@
 <p>
   This section contains random coding challenges that test your knowledge of <code>Mathematics</code>.<br> Separated by difficulty level and by platform.
 </p>
+
+<p align="right">
+  <a href="./../page_2/home.md">Next page</a>
+</p>
