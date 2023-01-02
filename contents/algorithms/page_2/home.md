@@ -13,7 +13,7 @@
 | 11 | [CamelCase Method](./camelcase-method/)	| Beginner | [Codewars](https://www.codewars.com/kata/587731fda577b3d1b0001196/)	|
 | 12 | [Create Phone Number](./create-phone-number/) | Beginner | [Codewars](https://www.codewars.com/kata/525f50e3b73515a6db000b83/) |
 | 13 | [Sum Strings as Numbers](./sum-strings-as-numbers/) | Intermediary | [Codewars](https://www.codewars.com/kata/5324945e2ece5e1f32000370/) |
-| 14 | ... | ... | ... |
+| 14 | [How many are smaller than me?](./how-many-are-smaller-than-me%3F/) | Beginner | [Codewars](https://www.codewars.com/kata/56a1c074f87bc2201200002e/) |
 | 15 | ... | ... | ... |
 | 16 | ... | ... | ... |
 | 17 | ... | ... | ... |
