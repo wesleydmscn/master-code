@@ -18,6 +18,8 @@
 | 6 | [Invert Values](./invert-values/) | Beginner | [Codewars](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad) |
 | 7 | [Moving Zeros To The End](./moving-zeros-to-the-end/) | Beginner | [Codewars](https://www.codewars.com/kata/52597aa56021e91c93000cb0) |
 | 8 | [Average Salary Excluding the Minimum and Maximum Salary](./average-salary-excluding-the-min-and-max-salary/) | Beginner | [LeetCode](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/description/) |
+| 9 | [Consecutive strings](./consecutive-strings/solution.js) | Beginner | [Codewars](https://www.codewars.com/kata/56a5d994ac971f1ac500003e/) |
+| 10 | ... | ... | ... |
 
 </div>
 
